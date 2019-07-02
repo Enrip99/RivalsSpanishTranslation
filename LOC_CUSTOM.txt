@@ -115,9 +115,9 @@
 121 = "Tu oponente quiere activar el modo turbo. ¿Estás de acuerdo?"
 122 = "¿Quieres activar el modo turbo?"
 123 = "¿Quieres desativar el modo turbo?"
-124 = ""
-125 = ""
-126 = ""
+124 = "¿Quieres comprar\n`1\npor `2 monedas?"
+125 = "¿Quieres ver\n`1\nen la tienda de Steam?"
+126 = "¿Quieres abrir el\nnavegador para ver\ncómo comprarlo?"
 127 = ""
 128 = ""
 129 = ""
@@ -212,9 +212,9 @@
 244 = "Alcanza el nivel 3 \nde maestría con el personaje."
 245 = "¡Felicidades! \n¡Has desbloqueado los \nColores competitivos!"
 246 = "El oponente ha desactivado el modo turbo."
-247 = "---" // reserved
-248 = "---" // reserved
-249 = ""
+247 = "Completa todos\nlos tutoriales\n para desbloquearlo."
+248 = "¡Felicidades!\nHas desbloequeado\n"
+249 = "- Próximamente -"
 
 //----
 290 = "LISTO PARA LUCHAR"
@@ -465,6 +465,8 @@
 495 = "Elige tu región más cercana para un mayor disfrute en línea."
 496 = "@352"
 497 = "Elige qué colores personalizados verás en línea."
+450 = "Mascotas"
+451 = "Muestra las mascotas de todos o solo las tuyas."
 498 = "@318"
 499 = "Vuelve al Menú En Línea."
 500 = "@488"
@@ -663,6 +665,8 @@
 728 = "FUERA"
 729 = "ARRIBA"
 730 = "ABAJO"
+761 = "IZQUIERDA"
+762 = "DERECHA"
 731 = "PERFECTO"
 732 = "AL AZAR"
 733 = "NORMAL"
@@ -693,11 +697,13 @@
 752 = "ESPECIAL"
 753 = "SALTO"
 754 = "GOLPE FUERTE"
-755 = "ESQUIVE"
-756 = ""
-757 = ""
-758 = ""
+755 = "ESQUIVA"
+756 = "Mientras la repetición no está pausada:"
+757 = "`1: Cambia el control de la cámara"
+758 = "`1 / `2: Cambia la velocidad máxima de la cámara"
 759 = "Pulsa `1 para activar el avance de Fotogramas."
+
+760 = "MENÚ PAUSA"
 
 //---- HUD: Abyss Objectives
 801 = "Derrota `1 enemigos débiles"
@@ -1135,6 +1141,7 @@
 1493 = "TIEMPO TOTAL +1:00"
 1494 = "¡VAMOS!"
 1495 = "ELIGE UN PERSONAJE"
+1496 = "CINEMÁTICAS"
 
 //-----------------------------------------
 // Tutorial Input Instructions [1500-1899]
@@ -1511,6 +1518,20 @@
 1820 = "{-1,PR_JUMP} then {-1,PR_JUMP}"
 1821 = "FALL THROUGH"
 
+//---- VARIOUS TUTORIAL TEXTS
+1822 = " to repeat instructions." // press VIEW to repeat instructions.
+1823 = "BEGINNER\nMOVEMENT"
+1824 = "BEGINNER\nDEFENSE"
+1825 = "BEGINNER\nOFFENSE"
+1826 = "INTERMEDIATE\nMOVEMENT"
+1827 = "INTERMEDIATE\nDEFENSE"
+1828 = "INTERMEDIATE\nOFFENSE"
+1829 = "ADVANCED\nMOVEMENT"
+1830 = "ADVANCED\nDEFENSE"
+1831 = "ADVANCED\nOFFENSE"
+1832 = "COMPLETE!"
+
+
 //----------------------------------
 // Online Chat Messages [1900-1979]
 //----------------------------------
@@ -1814,6 +1835,7 @@
 2459 = "@2429"
 
 //---- CSS Options [2500-2549]
+2500 = "¿RESTABLECER LOS CONTROLES DEL TECLADO?"
 2501 = "PRUEBA"
 2502 = "CONTROLES PERSONALIZADOS"
 2503 = "ATAQUE"
@@ -1862,6 +1884,7 @@
 2546 = "DOBLE GOLPE"
 2547 = "DEFECTO"
 2548 = "@2539"
+2549 = "ELIGE UNA MASCOTA"
 
 //---- CSS Options shortened (width cannot be longer than "SPECIAL") [2550-2569]
 2550 = "ACCIÓN" //only used to display DPAD setting in custom controls
