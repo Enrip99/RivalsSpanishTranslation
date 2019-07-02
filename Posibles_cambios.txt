@@ -1,0 +1,2 @@
+914 - Daño causado / Daño hecho / Daño inflingido
+913 - Suicidios / Autodestrucciones
