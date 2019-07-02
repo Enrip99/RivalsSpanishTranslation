@@ -109,8 +109,8 @@
 115 = "¿Ir a la página de Steam de Ranno y Clairen \n?"
 116 = "¿Ir a la página de Steam de \nSylvanos y Elliana\n?"
 117 = "Algunas de tus repeticiones son incompatibles debido a cambios entre versiones. ¿Quieres borrar las repeticiones incompatibles?"
-118 = "¿Quieres borrar\nla repetición?"
-119 = "¿Quieres cerrar \nel juego?"
+118 = "¿borrar la repetición?"
+119 = "¿Salir del juego?"
 120 = "¿Ir a la página de Steam de \nShovel Knight\n?"
 121 = "Tu oponente quiere activar el modo turbo. ¿Estás de acuerdo?"
 122 = "¿Quieres activar el modo turbo?"
@@ -317,7 +317,7 @@
 369 = "Elige permitir el uso de mapas Aether en el modo torneo."
 370 = "Pausa"
 371 = "Cambia el método de pausa entre mantener o pulsar el botón."
-372 = "Escalado de golpes"
+372 = "Modificador de daño"
 373 = "Elige con cuanta fuerza se lanzarán los Rivales al ser golpeados."
 374 = "@352"
 375 = "Activa o desactiva los colores personalizados en el Modo Versus."
@@ -341,7 +341,7 @@
 389 = "@381"
 
 //---- Display Options
-390 = "Tamaño pantalla"
+390 = "Tamaño"
 391 = "Cambia entre pantalla completa o diferentes tamaños de ventana."
 392 = "Daño interfaz"
 393 = "Muestra el daño sobre las cabezas de los Rivales."
@@ -353,7 +353,7 @@
 399 = "Solo juego local: Acelera el juego si los FPS bajan de 60."
 400 = "@318"
 401 = "Vuelve al menú de opciones."
-402 = "Sacudir interfaz"
+402 = "Sacudida de pantalla"
 403 = "Activa una sacudida cada vez que recibes daño."
 404 = "Efectos Retro"
 405 = "Visualiza algunas transparencias con Tramado de píxeles."
@@ -418,7 +418,7 @@
 454 = "@438"
 455 = "Perfecciona el arte de la supervivencia."
 456 = "@440"
-457 = "Perfecciona estas técnicas para tener al rival contra las cuerdas."
+457 = "Perfecciona estas técnicas para no dar ni un respiro al rival."
 458 = "@318"
 459 = "@443"
 
@@ -545,7 +545,7 @@
 617 = "PEQUEÑO"
 618 = "GRANDE"
 //----
-619 = "PANTALLA COMPLETA"
+619 = "PANT. COMPLETA"
 620 = "GUARDIANES"
 621 = "MANTENER" // Pause setting
 //---- Stage Types:
@@ -587,13 +587,13 @@
 //---- Replay menu button: sort by
 661 = "ORDENAR POR"
 662 = "FECHA"
-663 = "MARCADAS" // replays marked as favorites
+663 = "MARCA" // replays marked as favorites
 664 = "ABC" // alphabetical order
 
 //---- Replay menu button: auto save
-665 = "AUTOGUARDADO"
+665 = "Autoguardado"
 666 = "TODAS"
-667 = "EN LINEA"
+667 = "EN LíNEA"
 668 = "LOCAL"
 669 = "NO"
 
@@ -1944,7 +1944,7 @@
 2619 = "SONIDO"
 //
 2620 = "MENÚ"
-2621 = "REPETICIONES"
+2621 = "REPETICIÓN"
 //
 2622 = "COLORES"
 2623 = "PERSONALIZADOS"
