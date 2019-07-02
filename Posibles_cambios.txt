@@ -1,11 +1,5 @@
-119 -   #Encontrar una forma de que no se pase de largo sin haceruna segunda línea
 372 - Escalado de golpes / Escalado de daño / Modificador de daño
-390 - Tamaño pantalla / Tamaño
-402 - Sacudir interfaz / Sacudidas / Sacudir pantalla / Vibración pantalla
-457 - *Hay que acortarla, mínimo un caracter
 490 - Clasif. competitiva   #Clasificación competitiva no cabe entera.
-619 - PANTALLA COMPLETA / Fullscreen / Completa / Pant. Comp.   #Tamaño pantalla + Pantalla completa no caben juntos
-665 - Autoguardado / Autoguard. #Autoguardado es demasiado grande y colisiona con REPETICIONES
 913 - Suicidios / Autodestrucciones
 914 - Daño causado / Daño hecho / Daño inflingido
 Many - El Árbol del Espíritu / El Árbol Espiritual
