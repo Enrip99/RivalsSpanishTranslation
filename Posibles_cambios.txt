@@ -1,12 +1,10 @@
-914 - Daño causado / Daño hecho / Daño inflingido
-913 - Suicidios / Autodestrucciones
-457 - *Hay que acortarla, mínimo un caracter
+119 -   #Encontrar una forma de que no se pase de largo sin haceruna segunda línea914 - Daño causado / Daño hecho / Daño inflingido
 372 - Escalado de golpes / Escalado de daño / Modificador de daño
-490 - Clasif. competitiva   #Clasificación competitiva no cabe entera.
-Many - El Árbol del Espíritu / El Árbol Espiritual
-402 - Sacudir interfaz / Sacudidas / Sacudir pantalla / Vibración pantalla
 390 - Tamaño pantalla / Tamaño
+402 - Sacudir interfaz / Sacudidas / Sacudir pantalla / Vibración pantalla
+457 - *Hay que acortarla, mínimo un caracter
+490 - Clasif. competitiva   #Clasificación competitiva no cabe entera.
 619 - PANTALLA COMPLETA / Fullscreen / Completa / Pant. Comp.   #Tamaño pantalla + Pantalla completa no caben juntos
-405 -   #No sé que pone el original, pero prolly deberia dejar lo original en vez de Tramado
 665 - Autoguardado / Autoguard. #Autoguardado es demasiado grande y colisiona con REPETICIONES
-119 -   #Encontrar una forma de que no se pase de largo sin haceruna segunda línea
+913 - Suicidios / Autodestrucciones
+Many - El Árbol del Espíritu / El Árbol Espiritual
