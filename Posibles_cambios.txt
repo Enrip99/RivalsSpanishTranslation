@@ -1,2 +1,6 @@
 914 - Daño causado / Daño hecho / Daño inflingido
 913 - Suicidios / Autodestrucciones
+457 - *Hay que acortarla, mínimo un caracter
+372 - Escalado de golpes / Escalado de daño / Modificador de daño
+490 - Clasif. competitiva //Clasificación competitiva no cabe entera.
+Many - El Árbol del Espíritu / El Árbol Espiritual
