@@ -30,8 +30,8 @@
 24 = "PUNTUACIÓN" // player's score (1000-9999, etc)
 25 = "VICTORIAS" // win count
 26 = "DERROTAS" // lose count
-27 = "RATIO DE VICTORIAS"
-28 = "RATIO DE DESCONEXIÓN" // displayed as a %
+27 = "RATIO VICTORIAS"
+28 = "RATIO DESCONEXIÓN" // displayed as a %
 29 = "Tu puntuación será de 1 si supera el" // (Line 1/2) - This is a warning about penalties for ragequitting
 30 = "20% hasta que vuelva a bajar." // (Line 2/2)
 31 = "RIVAL FAVORITO" // should be translated as "fav character" - displays the character you select most often
@@ -236,7 +236,7 @@
 
 //---- Top Menu
 300 = "Local"
-301 = "¡Juega solo o invita a tus amigos para una sesión multijugador local!"
+301 = "¡Juega solo o invita a tus amigos para una partida local!"
 302 = "En línea"
 303 = "¡Reta a amigos y Rivales de todo el mundo!"
 304 = "Opciones"
@@ -292,7 +292,7 @@
 346 = "Histórias Etéreas"
 347 = "Revive las cinemáticas de capítulos completados en la História."
 348 = "Test de Sonido"
-349 = "Escucha tus melodias favoritas de la banda sonora."
+349 = "Escucha tus melodías favoritas de la banda sonora."
 350 = "Mis estadísticas"
 351 = "Comprueba tus estadísticas con cada personaje y perfil."
 352 = "Colores Pers."
@@ -314,7 +314,7 @@
 366 = "Tiempo del Torneo"
 367 = "Elige el límite de tiempo para cada partida del torneo."
 368 = "mapas Aether"
-369 = "Elige el modo por defecto de los mapas en el Modo Torneo."
+369 = "Elige permitir el uso de mapas Aether en el modo torneo."
 370 = "Pausa"
 371 = "Cambia el método de pausa entre mantener o pulsar el botón."
 372 = "Escalado de golpes"
@@ -336,7 +336,7 @@
 384 = "Versus Abisal"
 385 = "Juega una partida Versus con las mejoras del Abismo."
 386 = "Clasificación Abismo"
-387 = "Mira tus mejores puntuaciones en el abismo y mídete con la comunidad."
+387 = "Mira tus puntuaciones en el abismo y mídete con la comunidad."
 388 = "@318"
 389 = "@381"
 
@@ -384,7 +384,7 @@
 426 = "Avanzado"
 427 = "Perfecciona todos los detalles del juego."
 428 = "Personajes 1"
-429 = "Aprende las mecánicas excludivas de cada personaje."
+429 = "Aprende las mecánicas exclusivas de cada personaje."
 430 = ""
 431 = ""
 432 = "@318"
@@ -414,7 +414,7 @@
 
 //---- Advanced Tutorial Sub-Menu
 452 = "@436"
-453 = "Perfecciona estas técnicas para moverte como un profesional"
+453 = "Perfecciona estas técnicas para moverte como un profesional."
 454 = "@438"
 455 = "Perfecciona el arte de la supervivencia."
 456 = "@440"
@@ -436,7 +436,7 @@
 470 = "@176"
 471 = "Aprende a ir rápido con Maypul, la Vigilante Silvana."
 472 = "@177"
-473 = "Aprende las capazidades de evasión de Absa, la Arquitecta de las Tormentas."
+473 = "Aprende a evadir con Absa, la Arquitecta de las Tormentas."
 474 = "@178"
 475 = "Aprende a destruir con Etalus, el Poder del Glaciar."
 476 = "@318"
@@ -457,7 +457,7 @@
 489 = "Selecciona el perfil para usar en el modo individual y en línea."
 
 //---- Online Stats and Options
-490 = "Clasificación competitiva"
+490 = "Clasif. competitiva"
 491 = "Compara tu puntuación con la del resto de competidores."
 492 = "Mis estadísticas"
 493 = "Comprueba tus estadísticas con cada personaje y perfil."
@@ -527,7 +527,7 @@
 606 = "Ajustes de Torneo"
 607 = "Ajusta algunos modificadores de juego para el modo torneo."
 //--- Allowed Custom Colors:
-608 = "MIOS"
+608 = "MÍOS"
 609 = "NINGUNO"
 610 = "TODOS"
 //--- Effects Quality:
@@ -777,15 +777,15 @@
 865 = "MODO TURBO"
 
 //---- Abyss Rune Legend
-881 = "Mod. de objeto"
-882 = "Mod. de rango"
-883 = "Mod. de golpe"
-884 = "Mejora de habilidad"
+881 = "Objeto"
+882 = "Rango"
+883 = "Golpe"
+884 = "Habilidad"
 885 = "Modifica un objeto estático dejado tras un ataque."
 886 = "Modifica un ataque con proyectil."
 887 = "Modifica interacciones fisicas directas con oponentes."
 888 = "Mejora una acción o atributo de un personaje."
-889 = "TIPO DE\nRUNA"
+889 = "TIPO\nDE\nRUNA"
 890 = ""
 
 //---- Story Cutscene UI
@@ -815,10 +815,10 @@
 911 = "KOs"
 912 = "Muertes"
 913 = "Suicidios"
-914 = "Daño hecho"
+914 = "Daño causado"
 915 = "Daño recibido"
 916 = "Bloqueos"
-917 = "Mejor combo"
+917 = "Combo máximo"
 918 = "Precisión"
 919 = "MANTÉN PARA SALIR"
 920 = ""
