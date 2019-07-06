@@ -972,60 +972,60 @@
 
 
 //---- FORSBURN
-1053 = "Forsburn returns home from a diplomatic mission to find his father, Emperor Renburn, slain. A knife, identical to Forsburn's dagger, is buried deep in the Emperor's chest."
-1054 = "Emperor Renburn's loyal spy and illegitimate son, Forsburn has long distrusted his father's Fire Council. Now, all too late, he discovers their treacherous goal."
-1055 = "Forsburn flees the scene and seeks refuge in the maze of aqueducts underneath the Fire Capital."
+1053 = "Forsburn vuelve a casa de una misión diplomática. Nada más llegar, descubre que su padre, el Emperador Renburn, ha sido asesinado. Un cuchillo idéntico al suyo está clavado en el pecho del difunto."
+1054 = "Forsburn era el espía más leal e hijo ilegítimo de Renburn. Sin embargo, nunca contó con la aprobación del Consejo del Fuego. Y ahora que ha descubierto su malévolo plan, ya es demasiado tarde."
+1055 = "Forsburn huye de la escena y sale en busca de un sitio en que refugiarse en los laberínticos acuedúctos bajo la capital."
 //---- 2
-1056 = "Suspected of murder, Forsburn seeks to warn his beloved royal brother and prevent the Fire Council from seizing the imperial throne."
-1057 = "But when Zetterburn returns to the Fire Capital, he doubts Forsburn's conspiracy theories. The brothers fight, and Forsburn flees - wounded and betrayed."
-1058 = "Zetterburn, convinced his brother is guilty of patricide, is devastated. He tells no one of their clandestine altercation or of Forsburn's escape."
+1056 = "Ahora un sospechoso de asesinato, Forsburn intenta avisar a su hermano de los planes del Consejo para apoderarse del trono."
+1057 = "Pero para cuando Zetterburn regresa a la capital, pone en duda las teorías conspiranóicas de Forsburn. La situación acaba con una pelea entre los dos hermanos, de la cual Forsburn huye herido - y traicionado."
+1058 = "Zetterburn, convencido de la culpabilidad de su hermano, queda devastado. Aún así, decide no hablar con nadie sobre suviolento encuentro ni de la huida de Forsburn."
 //---- 3
-1059 = "Forsburn flees to the far outskirts of the Fire Empire. One night, seeking refuge on the border of the Wastelands, he awakes to find himself surrounded by murky strangers."
-1060 = "They emerge from a ring of smoke and identify themselves as sentries from the Smoke Clan. They seize the wandering Fire Citizen and bring him to their settlement."
+1059 = "Forsburn huye sin descanso hacia las afueras del Imperio del Fuego en búsqueda de un refúgio en el páramo, hasta que una noche se ve súbitamente rodeado por seres misteriosos."
+1060 = "Salidos de una nube de humo, se hacen llamar a si mismos los vigilantes del Clan del Humo. Arrestan al fugitivo y lo llevan en dirección a su base."
 //---- 4
-1061 = "Claiyen, Chief of Smoke Clan, learns of Forsburn's plight and his skill in espionage. She offers him a home in the hidden Smoke enclave in exchange for his allegiance."
-1062 = "Forsburn vows his loyalty. He renounces the false light of fire and vows to learn the truthful deceptions of smoke.  He is given a grey cloak of secrecy and a new identity."
+1061 = "Claiyen, jefa del Clan del Humo, escucha la historia que Forsburn tiene que contar. Tras oír sobre sus dotes de espionaje, le ofrece un refugio dentro del clan a cambio de su lealtad."
+1062 = "Forsburn acepta sin dudarlo. Ha decidido renunciar a la falsa luz del fuego, y en su lugar estudiar la pureza de los engaños de humo. Para ello, recibe una capa gris de ocultación y una nueva identidad."
 //---- 5
-1063 = "Before long, Forsburn hears news from the Fire Capital: Zetterburn has disappeared. Despite his loyalty to the Smoke Clan, Forsburn decides he must find his brother."
-1064 = "Donning a battle mask from the Smoke Clan, Forsburn uses a smoke portal to return to the Fire Capital. When he arrives, however, he is greeted by a familiar figure..."
+1063 = "Forsburn no tarda mucho en recibir noticias de la Capital del Fuego: Zetterburn ha desaparecido. Pesé a su lealtad al Clan del Humo, decide ir en busca de su hermano."
+1064 = "Portando una máscara de batalla del clan, Forsburn crea un portal de humo para volver a la capital. Sin embargo, nada más llegar, es recibido por una figura familiar..."
 //---- 6
-1065 = "As Forsburn uses his new powers of Smoke to defeat his brother, Zetterburn vanishes. The Fire Capital pulses in purple shadow."
-1066 = "Then Forsburn sees a blaze in the distance. The Fire Army has attacked the Smoke hideout while he skirmished in the Fire Capital."
-1067 = "Forsburn races back to his new home without finding his real brother or confronting the false Emperor Loxodont."
+1065 = "En cuánto Forsburn usa sus nuevos poderes del humo para derrotar a su hermano, Zetterburn desaparece. Antes de poder darse cuenta, la ciudad ha sido engullida por una sombra púrpura."
+1066 = "Acto seguido, Forsburn detecta una llamarada en el horizonte. El Ejército del Fuego ha atacado el escondite del Humo mientras él peleaba en la capital."
+1067 = "Forsburn vuelve inmediatamente a su nuevo hogar sin haber encontrado a su verdadero hermano ni  haberse enfrentado al falso Emperador Loxodont."
 
 
 //---- MAYPUL
-1068 = "Maypul, self-appointed Guardian of the Aetherian Forest and daughter of the Treetops, protects the Treetops Lodges and the Floor below with her companion plant, Lily."
-1069 = "High in the canopy, the Treetop Dwellers look down on the lowly denizens of the forest Floor. But Maypul knows the Forest is one; they will thrive or perish together."
-1070 = "And now Maypul feels a disturbance through the roots of the Forest. There is a sickness under the ground."
+1068 = "Maypul, autoproclamada Guardiana del Bósque Etéreo e hija de los Moradores de los Árboles, protege las cabañas de los árboles al igual que las profundidades del bosque junto a su planta ayudante, Lily."
+1069 = "Desde lo alto de los árboles, los Moradores menosprecian a los habitantes en tierra. Pero para Maypul el bosque es uno solo; todos están destinados a vivir o morir juntos."
+1070 = "De repente, Maypul nota una perturbación a través de las raíces del Bosque. Hay una enfermedad bajo tierra."
 //---- 2
-1071 = "Maypul and Lily soon discover that the Forest is infested with a mysterious purple shadow. Wherever the shadows touch, the plants turn twisted and ugly."
+1071 = "Maypul y Lily no tardan en descubrir que el Bosque está infectado por una misteriosa sombra púrpura. Allá dónde toca la sombra, las plantas marchitan."
 //---- 3
-1072 = "The source of the sickness seems to lie beyond the Rock Wall. Maypul realizes that she must go. She leaves Lily in the care of her younger sister, Mayreed."
-1073 = "Maypul gives Mayreed a letter that details all of her discoveries about the purple rot and its source. Maypul tells her sister to share the letter with any forest dweller who will read it."
-1074 = "Mayreed worries that Maypul is too reckless and begs her to stay, but both sisters feel the danger lurking beneath their roots. Indeed all of Aether could be in peril..."
+1072 = "El origen de la enfermedad parece proceder de más allá del Muro Rocoso. Maypul acepta que es su misión lidiar con ello. Antes de marchar, deja a Lily a cargo de cuidar a su hermana pequeña, Mayreed."
+1073 = "A mayreed le entrega una carta con todo lo que conoce sobre la enfermedad y sus orígenes, y le encomienda la misión de compartir sus contenidos con cualquier morador que quiera leerla."
+1074 = "Mayreed, preocupada de lo que le pueda pasar a su hermana, le roga que se quede, pero ambas hermanas sienten el pelogro que se acecha. Todo el mundo del Éter podría estar en peligro..."
 //---- 4
-1075 = "Maypul crosses the continent scouting and searching, following the sickness within the Earth. With each day away from the Forest, she feels herself growing weaker."
-1076 = "Moons into her journey, she comes upon an enclave under siege. When she creeps closer to investigate, she discovers the Fire Guard attacking the Smoke Clan's hideout."
+1075 = "Maypul recorre todo el continente en busca de rastros, siguiendo la enfermedad de la tierra allá dónde va. A cada día que pasa fuera del Bosque, se siente más y más débil."
+1076 = "Varias lunas tras su partida, encuentra un enclave bajo asedio. Al acercarse a investigar, descubre que el Clan del Humo está siendo atacado por el Ejército del Fuego."
 //---- 5
-1077 = "Suddenly, Forsburn appears in a whirlwind of smoke. Seeing his adopted home under attack, he mistakes Maypul for one of the assailants."
-1078 = "In the same moment, Maypul witnesses Forsburn's smoky sorcery and presumes him to be in league with the twisting shadows infecting the Forest."
-1079 = "They both leap into attack..."
+1077 = "En ese entonces, aparece de una nube de humo Forsburn. Viendo el horrible panorama en que se encuentra su hogar, confunde a Maypul por uno de sus enemigos."
+1078 = "En ese mismo momento, Maypul presencia la magia de humo de Forsburn e instintivamente le asocia con las malvadas sombras infectando el bosque."
+1079 = "Ambos saltan a la carga..."
 //---- 6
-1080 = "Maypul demands to know what role Forsburn plays in the shadowy sickness. Taken aback, Forsburn explains his own encounter with the mysterious purple shadow and the disappearance of his brother."
-1081 = "Maypul and Forsburn conclude that the danger lies to the west. They set off together to find the source of the strange menace to Aether."
+1080 = "Maypul exige saber qué rol juega Forsburn en la infección de las sombras. Sorprendido, Forsburn le habla sobre su propio encuentro con una extraña sombra púrpura y la desaparición de su hermano."
+1081 = "Maypul y Forsburn concluyen que el peligro proviene del oeste. Ambos se ponen en camino para encontrar el orígen de esta amenaza al Éter."
 
 
 //---- EPILOGUE
-1082 = "Their journeys have led to the same place. Where verdant grasslands once grew around the Godai delta, a vast crater now churns with new seas. Volcanic ash clogs the air."
-1083 = "Maypul and Forsburn arrive to find Zetterburn already at the water's edge. The proud lion averts his eyes from the brother whom he wronged. Orcane arrives soon after."
-1084 = "Kragg appears next, reuniting Maypul and her companion plant Lily. Wrastor arrives just moments later having tracked down Kragg to take revenge for Bradshaw's injury."
-1085 = "Suddenly, the earth shivers, and the water seethes with oily strands of shadow. The sea pulses purple, and a vast stone edifice arises from the depths of a raging whirlpool."
-1086 = "This strangely ancient stone structure seems to be a gateway. Through this portal, the rival warriors glimpse a vast abyss that plunges deep below the surface of Aether."
-1087 = "This must be the source of Maypul's underground rot and the ephemeral shadow imposters! Our warriors put their rivalries aside. They know what they must do."
+1082 = "Sus viajes les han llevado a un mismo lugar. Dónde antes había un verde prado alrededor del Godai delta, ahora se halla un inmenso cráter que agita un nuevo mar. Y el cielo, lleno de ceniza volvánica."
+1083 = "Nada más llegar Maypul y Forsburn, encuentran a Zetterburn, asomado a la orilla del agua. Con su orgullo herido, aparta la mirada del hermano del que dudó. Orcane llega poco después."
+1084 = "Kragg es el siguiente en llegar, reuniendo a Maypul y a su querida planta compañera Lily. Wrastor llega justo después, quien había estado siguiendo a Kragg buscando venganza por la herida de Bradshaw."
+1085 = "De repente, un temblor sacude la tierra. El agua empieza a convertirse en un aceite sombrío. Todo el mar se vuelve púrpura y una enorme roca emerge del furioso remolino."
+1086 = "Esta antigua y bizarra estructura pétrea parece una especie d epuerta. A través del portal, los guerreros rivales consiguen ver una especie de abismo que se extiende hasta las profundidades del Éter."
+1087 = "¡Esta debe de ser la fuente de la enfermedad del bosque y de los impostores sombríos! Nuestros guerreros dejan sus rialidades de lado por un momento. Los seis saben exactamente que deben hacer."
 //---- 2
-1088 = "The shadow creatures are vanquished. The no-longer-rivals reunite and make amends for their past fights. However, the peril to Aether perhaps remains..."
-1089 = "What were those shadows? What did they want? Why did they incite strife among the civilizations of Aether?"
+1088 = "Las criaturas de las sombras han sido aniquiladas. Los ya-no-tan-rivales se reúnen para hacer las paces por sus pasadas batallas. Sin embargo, las amenazas al Éter quizás aún persisten..."
+1089 = "¿Qué eran esas sombras? ¿Qué buscaban? ¿Y porqué buscaban el caos entre las civilizaciones del Éter?"
 
 //--------------------
 // Custom Colors menu
@@ -1036,7 +1036,7 @@
 1302 = "POR DEFECTO"
 1303 = "DESHACER"
 1304 = "CÓDIGO"
-1306 = "¿DESHACER TODOS\n LOS CAMBIOS?"
+1306 = "¿DESHACER CAMBIOS?"
 1307 = "¿DESCARTAR CAMBIOS?"
 
 1320 = "Cuerpo" //zet
@@ -1788,11 +1788,11 @@
 2412 = "El Abismo Infinito"
 2413 = ""
 2414 = "El Ring CEO"
-2415 = "El Árbol de Espíritu"
+2415 = "El Árbol Espiritual"
 2416 = "Nombre del Mapa"
 2417 = "Capital del Fuego NEO"
 2418 = "El Estuario Pantanoso"
-2419 = "Las Profundidades del Bosque"
+2419 = "Profundidades del Bosque"
 2420 = "Julesvale"
 2421 = "Charca Truchanzana"
 2422 = "Sala de Práctica"
