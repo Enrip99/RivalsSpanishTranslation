@@ -1,5 +1,3 @@
-372 - Escalado de golpes / Escalado de daño / Modificador de daño
-490 - Clasif. competitiva   #Clasificación competitiva no cabe entera.
 913 - Suicidios / Autodestrucciones
 914 - Daño causado / Daño hecho / Daño inflingido
 Many - Las Profundidades del Bosque   #Demasiado grande para el menú de replays y SSS
