@@ -46,7 +46,7 @@
 40 = "RIVAL SELECCIONADO" // should be translated as "selected character" - current story mode character
 41 = "LUCHAR" // on-screen button to begin a story mode chapter
 42 = "MEJOR" // shortened version of "BEST TIME" to fit UI
-43 = "VER CLASICIACIÓN" // shortened version of "VIEW FRIENDS LEADERBOARD" to fit UI
+43 = "VER CLASIFICACIÓN" // shortened version of "VIEW FRIENDS LEADERBOARD" to fit UI
 44 = "MEJOR OLEADA EN EL ABISMO" // Furthest wave you've reached in abyss before dying.
 45 = " - MEJOR MARCA" // Same meaning as above but displayed as: "[CHARACTER NAME] BEST RUN"
 46 = "UN JUGADOR" // usage: "ONE PLAYER BEST RUN"
@@ -114,7 +114,7 @@
 120 = "¿Ir a la página de Steam de \nShovel Knight\n?"
 121 = "Tu oponente quiere activar el modo turbo. ¿Estás de acuerdo?"
 122 = "¿Quieres activar el modo turbo?"
-123 = "¿Quieres desativar el modo turbo?"
+123 = "¿Quieres desactivar el modo turbo?"
 124 = "¿Quieres comprar\n`1\npor `2 monedas?"
 125 = "¿Quieres ver\n`1\nen la tienda de Steam?"
 126 = "¿Quieres abrir el\nnavegador para ver\ncómo comprarlo?"
@@ -184,7 +184,7 @@
 216 = "- Error de conexión -\nLa partida a la que has intentado acceder está llena."
 217 = "- Error de conexión -\nTu oponente ha cancelado la partida."
 218 = "- Error de conexión -\nLa conexión ha caído."
-219 = "- Error de conexión -\nLa coneción ha fallado." // (generic message for errors)
+219 = "- Error de conexión -\nLa conexión ha fallado." // (generic message for errors)
 220 = "El emparejamiento de Steam no se encuentra disponible."
 221 = "Las invitaciones de Steam no se encuentran disponibles."
 222 = "Los datos de Steam no están disponibles."
@@ -213,7 +213,7 @@
 245 = "¡Felicidades! \n¡Has desbloqueado los \nColores competitivos!"
 246 = "El oponente ha desactivado el modo turbo."
 247 = "Completa todos\nlos tutoriales\n para desbloquearlo."
-248 = "¡Felicidades!\nHas desbloequeado\n"
+248 = "¡Felicidades!\nHas desbloqueado\n"
 249 = "- Próximamente -"
 
 //----
@@ -289,8 +289,8 @@
 //---- Extras Sub-Menu
 344 = "Repeticiones"
 345 = "Revive tus mejores partidas una y otra vez."
-346 = "Histórias Etéreas"
-347 = "Revive las cinemáticas de capítulos completados en la História."
+346 = "Historias Etéreas"
+347 = "Revive las cinemáticas de capítulos completados en la Historia."
 348 = "Test de Sonido"
 349 = "Escucha tus melodías favoritas de la banda sonora."
 350 = "Mis estadísticas"
@@ -346,7 +346,7 @@
 392 = "Daño interfaz"
 393 = "Muestra el daño sobre las cabezas de los Rivales."
 394 = "Nombres interfaz"
-395 = "Muestra los los perfiles sobre las cabezas de los Rivales."
+395 = "Muestra los perfiles sobre las cabezas de los Rivales."
 396 = "Calidad de efectos"
 397 = "Ajusta la calidad de los efectos para mejorar el rendimiento."
 398 = "Salto de cuadros local"
@@ -521,9 +521,9 @@
 //----------------------------
 
 600 = "Abre la interfaz de Steam para ver tu progreso con los Logros."
-601 = "Abre el Xbox One Game Hubpara ver tu progreso con los logros."
+601 = "Abre el Xbox One Game Hub para ver tu progreso con los logros."
 602 = "Progresa en el modo Abismo para desbloquear esta opción."
-603 = "Completa el modo História para desbloquear este modo."
+603 = "Completa el modo Historia para desbloquear este modo."
 604 = "Modo Torneo"
 605 = "Juega Versus con los ajustes de Torneo, solo contra otros humanos."
 606 = "Ajustes de Torneo"
@@ -609,11 +609,11 @@
 678 = "Partida Local por Equipos"
 679 = "En Línea Casual"
 680 = "Partida Amistosa"
-681 = "Ranked Match"
+681 = "Partida Competitiva"
 682 = "Sin descripción"
 683 = "Repeticiones" // x/128 Replays
 684 = "LAS REPETICIONES SIN MARCAR" // (1/2)
-685 = "SERÁN SOBESCRITAS SI NO HAY HUECO." // (2/2)
+685 = "SERÁN SOBRESCRITAS SI NO HAY HUECO." // (2/2)
 686 = "VER"
 687 = "CAMBIAR NOMBRE"
 688 = "CAMBIAR DESCRIPCIÓN"
@@ -709,7 +709,7 @@
 801 = "Derrota `1 enemigos débiles"
 802 = "Destruye los vórtices" //i.e. break the targets
 803 = "¡Evita las olas de energía y lucha!" //vs 1 enemy with randomly-spawning explosions
-804 = "¡Destruye las semillas rápido!" //falling seeds
+804 = "¡Destruye las semillas rápidamente!" //falling seeds
 805 = "Derrota al enemigo blindado"
 806 = "Derrota `1 enemigos débiles"
 807 = "Destruye el obelisco" //failing to destroy quickly results in stage-filling explosion
@@ -821,7 +821,7 @@
 911 = "KOs"
 912 = "Muertes"
 913 = "Autodest."
-914 = "Daño inflingido"
+914 = "Daño infligido"
 915 = "Daño recibido"
 916 = "Parrys"
 917 = "Combo máximo"
@@ -901,7 +901,7 @@
 1008 = "De repente, una criatura acuática aparece y roba La Llama. ¡Es el elusivo Orcane! Orcane salta con La Llama a un charco misterioso de color púrpura y desaparece."
 //---- 5
 1009 = "El Consejo ordena a Zetterburn recuperar La Llama. Leal como siempre, el General lleva sus tropas a saquear el Puerto Mercante, hogar de Orcane."
-1010 = "Zetterburn arrasa con la ciudad indefensa hasta llegar al muelle, donde encuentra al Orcane púrpura guardando la antorcha ceremonial.."
+1010 = "Zetterburn arrasa con la ciudad indefensa hasta llegar al muelle, donde encuentra al Orcane púrpura guardando la antorcha ceremonial..."
 //---- 6
 1011 = "De repente, Orcane desvanece. ¡La criatura no era más que una sombra!"
 1012 = "Lleno de dudas, sus instintos se avivan. Los ojos de Zetterburn caen sobre un resplandor violeta y columnas de humo sobre el horizonte..."
@@ -921,13 +921,13 @@
 1021 = "Usando sus misteriosos poderes acuáticos logra infiltrarse en la Armada usando un grifo sin vigilar. Orcane busca por toda la nave hasta encontrar los bienes robados de la Federación."
 //---- 4
 1022 = "De repente, Orcane se encuentra un escenario inesperado. Avista al comandante de la Armada vendiendo todos los objetos robados a la Federación por un simple pergamino."
-1023 = "Pero este no es un pergamino cualquiera. Es un extraño mapa cambiante que muestra todos los puntos débiles de las defensas de todas las civilizaciones en la superfície del Éter."
+1023 = "Pero este no es un pergamino cualquiera. Es un extraño mapa cambiante que muestra todos los puntos débiles de las defensas de todas las civilizaciones en la superficie del Éter."
 //---- 5
 1024 = "Distraído por su descubrimiento, Orcane es encontrado por Wrastor y Bradshaw. Las dos aves se sorprenden de encontrar a la criatura dentro de la Armada."
 1025 = "Wrastor, tan exaltado como siempre, aparta a su compañero, dispuesto a retar a la criatura a un combate."
 //---- 6
 1026 = "Habiendo derrotado a Wrastor, Orcane huye de la Armada llevando los bienes de la Federación consigo. Pero al llegar a puerto, lo que le esperaba una ciudad en llamas."
-1027 = "Rápidamente lleva la nieta de Nebit a un lugar seguro y apaga las llamas. Al acabar, los vecinos le explican que el incendio fue obra de un general del Fuego en una ira descontrolada."
+1027 = "Rápidamente lleva la nieta de Nesbit a un lugar seguro y apaga las llamas. Al acabar, los vecinos le explican que el incendio fue obra de un general del Fuego en una ira descontrolada."
 1028 = "Orcane olfatea el rastro dejado por la criatura de fuego y la sigue hacia el oeste, dejando atrás su hogar otra vez."
 
 
@@ -974,13 +974,13 @@
 //---- FORSBURN
 1053 = "Forsburn vuelve a casa de una misión diplomática. Nada más llegar, descubre que su padre, el Emperador Renburn, ha sido asesinado. Un cuchillo idéntico al suyo está clavado en el pecho del difunto."
 1054 = "Forsburn era el espía más leal e hijo ilegítimo de Renburn. Sin embargo, nunca contó con la aprobación del Consejo del Fuego. Y ahora que ha descubierto su malévolo plan, ya es demasiado tarde."
-1055 = "Forsburn huye de la escena y sale en busca de un sitio en que refugiarse en los laberínticos acuedúctos bajo la capital."
+1055 = "Forsburn huye de la escena y sale en busca de un sitio en que refugiarse en los laberínticos acueductos bajo la capital."
 //---- 2
 1056 = "Ahora un sospechoso de asesinato, Forsburn intenta avisar a su hermano de los planes del Consejo para apoderarse del trono."
-1057 = "Pero para cuando Zetterburn regresa a la capital, pone en duda las teorías conspiranóicas de Forsburn. La situación acaba con una pelea entre los dos hermanos, de la cual Forsburn huye herido - y traicionado."
-1058 = "Zetterburn, convencido de la culpabilidad de su hermano, queda devastado. Aún así, decide no hablar con nadie sobre suviolento encuentro ni de la huida de Forsburn."
+1057 = "Pero para cuando Zetterburn regresa a la capital, pone en duda las teorías conspirativas de Forsburn. La situación acaba con una pelea entre los dos hermanos, de la cual Forsburn huye herido - y traicionado."
+1058 = "Zetterburn, convencido de la culpabilidad de su hermano, queda devastado. Aun así, decide no hablar con nadie sobre su violento encuentro ni de la huida de Forsburn."
 //---- 3
-1059 = "Forsburn huye sin descanso hacia las afueras del Imperio del Fuego en búsqueda de un refúgio en el páramo, hasta que una noche se ve súbitamente rodeado por seres misteriosos."
+1059 = "Forsburn huye sin descanso hacia las afueras del Imperio del Fuego en búsqueda de un refugio en el páramo, hasta que una noche se ve súbitamente rodeado por seres misteriosos."
 1060 = "Salidos de una nube de humo, se hacen llamar a si mismos los vigilantes del Clan del Humo. Arrestan al fugitivo y lo llevan en dirección a su base."
 //---- 4
 1061 = "Claiyen, jefa del Clan del Humo, escucha la historia que Forsburn tiene que contar. Tras oír sobre sus dotes de espionaje, le ofrece un refugio dentro del clan a cambio de su lealtad."
@@ -995,7 +995,7 @@
 
 
 //---- MAYPUL
-1068 = "Maypul, autoproclamada Guardiana del Bósque Etéreo e hija de los Moradores de los Árboles, protege las cabañas de los árboles al igual que las profundidades del bosque junto a su planta ayudante, Lily."
+1068 = "Maypul, autoproclamada Guardiana del Bosque Etéreo e hija de los Moradores de los Árboles, protege las cabañas de los árboles al igual que las profundidades del bosque junto a su planta ayudante, Lily."
 1069 = "Desde lo alto de los árboles, los Moradores menosprecian a los habitantes en tierra. Pero para Maypul el bosque es uno solo; todos están destinados a vivir o morir juntos."
 1070 = "De repente, Maypul nota una perturbación a través de las raíces del Bosque. Hay una enfermedad bajo tierra."
 //---- 2
@@ -1003,7 +1003,7 @@
 //---- 3
 1072 = "El origen de la enfermedad parece proceder de más allá del Muro Rocoso. Maypul acepta que es su misión lidiar con ello. Antes de marchar, deja a Lily a cargo de cuidar a su hermana pequeña, Mayreed."
 1073 = "A mayreed le entrega una carta con todo lo que conoce sobre la enfermedad y sus orígenes, y le encomienda la misión de compartir sus contenidos con cualquier morador que quiera leerla."
-1074 = "Mayreed, preocupada de lo que le pueda pasar a su hermana, le roga que se quede, pero ambas hermanas sienten el pelogro que se acecha. Todo el mundo del Éter podría estar en peligro..."
+1074 = "Mayreed, preocupada de lo que le pueda pasar a su hermana, le ruega que se quede, pero ambas hermanas sienten el peligro que se acecha. Todo el mundo del Éter podría estar en peligro..."
 //---- 4
 1075 = "Maypul recorre todo el continente en busca de rastros, siguiendo la enfermedad de la tierra allá dónde va. A cada día que pasa fuera del Bosque, se siente más y más débil."
 1076 = "Varias lunas tras su partida, encuentra un enclave bajo asedio. Al acercarse a investigar, descubre que el Clan del Humo está siendo atacado por el Ejército del Fuego."
@@ -1013,16 +1013,16 @@
 1079 = "Ambos saltan a la carga..."
 //---- 6
 1080 = "Maypul exige saber qué rol juega Forsburn en la infección de las sombras. Sorprendido, Forsburn le habla sobre su propio encuentro con una extraña sombra púrpura y la desaparición de su hermano."
-1081 = "Maypul y Forsburn concluyen que el peligro proviene del oeste. Ambos se ponen en camino para encontrar el orígen de esta amenaza al Éter."
+1081 = "Maypul y Forsburn concluyen que el peligro proviene del oeste. Ambos se ponen en camino para encontrar el origen de esta amenaza al Éter."
 
 
 //---- EPILOGUE
-1082 = "Sus viajes les han llevado a un mismo lugar. Dónde antes había un verde prado alrededor del Godai delta, ahora se halla un inmenso cráter que agita un nuevo mar. Y el cielo, lleno de ceniza volvánica."
+1082 = "Sus viajes les han llevado a un mismo lugar. Dónde antes había un verde prado alrededor del Godai Delta, ahora se halla un inmenso cráter que agita un nuevo mar. Y el cielo, lleno de ceniza volcánica."
 1083 = "Nada más llegar Maypul y Forsburn, encuentran a Zetterburn, asomado a la orilla del agua. Con su orgullo herido, aparta la mirada del hermano del que dudó. Orcane llega poco después."
 1084 = "Kragg es el siguiente en llegar, reuniendo a Maypul y a su querida planta compañera Lily. Wrastor llega justo después, quien había estado siguiendo a Kragg buscando venganza por la herida de Bradshaw."
 1085 = "De repente, un temblor sacude la tierra. El agua empieza a convertirse en un aceite sombrío. Todo el mar se vuelve púrpura y una enorme roca emerge del furioso remolino."
-1086 = "Esta antigua y bizarra estructura pétrea parece una especie d epuerta. A través del portal, los guerreros rivales consiguen ver una especie de abismo que se extiende hasta las profundidades del Éter."
-1087 = "¡Esta debe de ser la fuente de la enfermedad del bosque y de los impostores sombríos! Nuestros guerreros dejan sus rialidades de lado por un momento. Los seis saben exactamente que deben hacer."
+1086 = "Esta antigua y bizarra estructura pétrea parece una especie de puerta. A través del portal, los guerreros rivales consiguen ver una especie de abismo que se extiende hasta las profundidades del Éter."
+1087 = "¡Esta debe de ser la fuente de la enfermedad del bosque y de los impostores sombríos! Nuestros guerreros dejan sus rivalidades de lado por un momento. Los seis saben exactamente que deben hacer."
 //---- 2
 1088 = "Las criaturas de las sombras han sido aniquiladas. Los ya-no-tan-rivales se reúnen para hacer las paces por sus pasadas batallas. Sin embargo, las amenazas al Éter quizás aún persisten..."
 1089 = "¿Qué eran esas sombras? ¿Qué buscaban? ¿Y porqué buscaban el caos entre las civilizaciones del Éter?"
@@ -1088,7 +1088,7 @@
 1401 = "Detalle"
 1402 = "Ojos"
 1403 = "Sein"
-1404 = "Energia"
+1404 = "Energía"
 
 1410 = "Cuerpo claro" //ran
 1411 = "Cuerpo oscuro"
@@ -1182,7 +1182,7 @@
 1525 = "SPIKES SOBREVIVIDOS: "
 1526 = "Mantén {180,-1} y luego {-1,PR_DODGE} justo antes de tocar la pared"
 1527 = "TECHS EN EL BORDE: "
-1528 = "{90,PR_SPECIAL} hacia el opponenta, y luego {-1,PR_DODGE} justo antes de ser golpeado"
+1528 = "{90,PR_SPECIAL} hacia el oponente, y luego {-1,PR_DODGE} justo antes de ser golpeado"
 1529 = "ESCAPES SDI: "
 1530 = "Mantén {180,-1}"
 1531 = "ESCAPES DRIFT DI: "
@@ -1249,7 +1249,7 @@
 1580 = "{90,PR_SPECIAL} luego {-1,PR_DODGE}"
 1581 = "COMBOS GATLING: "
 1582 = "{1,PR_ATTACK} y luego (justo cuando golpea) {90,PR_STRONG}"
-1583 = "JUMP-CANCELLED NSPECIALS: "
+1583 = "NSPECIALS CANCELADOS: "
 1584 = "{-1,PR_SPECIAL} e inmediatamente {-1,PR_JUMP}"
 
 //---- ORCANE TUTORIAL
@@ -1283,7 +1283,7 @@
 1600 = "{-1,PR_JUMP} luego {270,PR_STRONG}"
 1601 = "USPECIAL SWEET SPOTS: "
 1602 = "{90,PR_SPECIAL} cerca del oponente"
-1603 = "JUMP-CANCELLED TILTS: "
+1603 = "TILTS CANCELADOS: "
 1604 = "{2,PR_ATTACK}{12,JOY}{90,PR_ATTACK}{12,JOY}{270,PR_ATTACK} luego {-1,PR_JUMP}"
 1806 = "GASTA TODOS TUS SALTOS"
 1807 = "NSPECIAL ASCENDENTE"
@@ -1301,7 +1301,7 @@
 1611 = "DTHROWS: "
 1612 = "{-1,PR_SPECIAL} para sacar una roca, luego {270,PR_SPECIAL}"
 1613 = "ATAQUES SOBREVIVIDOS: "
-1614 = "JUMP-CANCELLED FSPECIAL a AÉREOS: "
+1614 = "FSPECIALS CANCELADOS A AÉREOS: "
 1615 = "{0,PR_SPECIAL} luego (after hitting) {-1,PR_JUMP} y luego {-1,PR_ATTACK}{12,JOY}{-1,PR_STRONG}"
 1616 = "USPECIALS: "
 1617 = "DASH ATTACK CANCELADOS: "
@@ -1329,14 +1329,14 @@
 1634 = "USPECIAL CON CUERDA: "
 1635 = "Marca a un oponente, luego mantén {90,PR_SPECIAL}"
 1636 = "USPECIAL CON UNA MARCA PUESTA: "
-1637 = "Maral oponente, luego pulsa ligeramente {90,PR_SPECIAL}"
+1637 = "Marca oponente, luego pulsa ligeramente {90,PR_SPECIAL}"
 1638 = "ATAQUES CON LILY: "
 1639 = "WALL CLINGS: "
 1640 = "Mantén {0,-1} en dirección al muro y mantén {-1,PR_JUMP}"
 1641 = "IMPULSOS DE UAIR: "
 1642 = "{-1,PR_JUMP} luego {-1,PR_JUMP} e inmediatamente {90,PR_ATTACK}{12,JOY}{-1,PR_STRONG}"
 1643 = "FSPECIAL INVERSO a UTILTS: "
-1644 = "{0,PR_SPECIAL} e indmediatamente mantén {180,-1} y luego {90,PR_ATTACK}"
+1644 = "{0,PR_SPECIAL} e inmediatamente mantén {180,-1} y luego {90,PR_ATTACK}"
 
 //---- ABSA TUTORIAL
 1645 = "FSPECIALS: "
@@ -1372,7 +1372,7 @@
 1673 = "{-1,PR_SPECIAL} sobre el hielo, luego {-1,PR_STRONG}"
 1674 = "VECES CONGELADO: "
 1675 = "{270,PR_SPECIAL} cerca del oponente o cuando esté sobre el hielo"
-1676 = "JUMP-CANCEL DASH ATTACKS A NAIR: "
+1676 = "DASH ATTACKS CANCELADOS A NAIR: "
 1677 = "{1,PR_ATTACK} luego {-1,PR_JUMP} y luego {-1,PR_ATTACK}"
 1678 = "DASH ATTACKS CANCELADOS A USTRONG: "
 1679 = "{1,PR_ATTACK} luego {90,PR_STRONG}"
@@ -1405,7 +1405,7 @@
 1704 = "{90,PR_SPECIAL} seguido de {-1,PR_DODGE} y luego {90,PR_SPECIAL}"
 
 //---- RANNO TUTORIAL
-1705 = "SUPER SALTOS: "
+1705 = "SÚPER SALTOS: "
 1706 = "Mantén {270,PR_JUMP}"
 1707 = "DART CANCELS TOTALMENTE CARGADOS: "
 1708 = "Mantén {-1,PR_SPECIAL} y luego {-1,PR_DODGE}"
@@ -1492,7 +1492,7 @@
 1779 = "{-1,PR_JUMP} luego {270,PR_ATTACK}{12,JOY}{-1,PR_STRONG} para cargar. Luego {-1,PR_STRONG}"
 1780 = "ROCAS DEL TESORO DESTROZADAS: "
 1781 = "{270,PR_SPECIAL} y luego {-1,PR_SPECIAL} cuando veas !!"
-1782 = "FSPECIAL JUMP-CANCELLED A NAIRS: "
+1782 = "FSPECIALS CANCELADOS A NAIRS: "
 1783 = "{0,PR_SPECIAL} luego {-1,PR_JUMP} y luego {-1,PR_ATTACK}"
 1784 = "{-1,PR_TAUNT} y luego {-1,PR_ATTACK} para comprar un objeto"
 1785 = "COMPRA EL CUERNO DE GUERRA"
@@ -1512,7 +1512,7 @@
 //---- BEGINNER MOVEMENT TUTORIAL
 // (1800-1815 used)
 1816 = "CAMINA"
-1817 = "RCORRE"
+1817 = "CORRE"
 1818 = "SALTA"
 1819 = "DOBLE SALTO"
 1820 = "{-1,PR_JUMP} luego {-1,PR_JUMP}"
@@ -1564,7 +1564,7 @@
 1920 = "¡Tuviste suerte!"
 1921 = "Esta es mi última."
 1922 = "¡Nos vemos!"
-1923 = "¡Estoy usando el giroscópio!"
+1923 = "¡Estoy usando el giroscopio!"
 
 //---- Online chat pg4 (chars 1)
 1924 = "¡Vamos a caldear el ambiente!" // zetterburn
@@ -1578,7 +1578,7 @@
 
 //---- Online chat pg5 (chars 2)
 1932 = "Nos Vemos. Paz." // ranno
-1933 = "Awwwooooooo!" // sylvanos
+1933 = "¡Awwwooooooo!" // sylvanos
 1934 = "¡Espabila!" // ori
 1935 = ""
 1936 = "Mi presencia es un presente." // clairen
@@ -1615,7 +1615,7 @@
 2019 = "FSPECIAL empieza más rápido."
 2020 = "FSPECIAL puede ser redirecionado hacia arriba o hacia abajo."
 2021 = "DAIR lanza burbujas hacia abajo."
-2022 = "FAIR otorga super armadura."
+2022 = "FAIR otorga súper armadura."
 2023 = "DASH ATTACK y NAIR se pueden alargar manteniendo el botón."
 2024 = "Las burbujas acercan al oponente hacia Orcane."
 2025 = "Puedes cargar NSPECIAL para lanzarlo más lejos."
@@ -1655,7 +1655,7 @@
 2055 = "USPECIAL empieza y acaba más rápido que de costumbre."
 2056 = "Puedes tener más de una roca en juego a la vez."
 2057 = "Todos los pinchos de DSPECIAL salen a la vez."
-2058 = "Los ataques cargados otorgan super armadura."
+2058 = "Los ataques cargados otorgan súper armadura."
 2059 = "Puedes usar USPECIAL 3 veces antes de tocar el suelo."
 
 //---- FORSBURN
@@ -1713,7 +1713,7 @@
 2105 = "DASH ATTACK se desplaza más rápido."
 2106 = "USPECIAL empieza antes, carga más rápido y te deja reaccionar antes."
 2107 = "El hielo dura más antes de desaparecer."
-2108 = "DSPECIAL tiene super armadura."
+2108 = "DSPECIAL tiene súper armadura."
 2109 = "USPECIAL golpea a los oponentes durante el trayecto."
 2110 = "USPECIAL siempre llegará a la altura máxima."
 2111 = "FSPECIAL invoca más témpanos."
@@ -1730,7 +1730,7 @@
 
 //---- Character Ability Descriptions [2300-2341]
 2300 = "Zetterburn puede quemar a sus oponentes con sus ataques especiales, causándoles daño a medida que pasa el tiempo."
-2301 = "Golpea a un oponente en llamas con un ataque fuerte y Zetterburn absorberá las llamas para lanzarles el doble de lejos."
+2301 = "Golpea a un oponente en llamas con un ataque fuerte y Zetterburn absorberá las llamas para lanzarle el doble de lejos."
 2302 = "Zetterburn puede llenar el escenario de fuego con su DSPECIAL. Cualquier oponente que pise el fuego se quemará sin salir disparado."
 2303 = "Orcane puede crear charcos con su NSPECIAL o DSPECIAL. Usando USPECIAL, puede teletransportarse hacia ellos."
 2304 = "Orcane puede usar DSPECIAL para hacer que del charco salga un pilar de burbujas que atrapa al enemigo."
@@ -1754,7 +1754,7 @@
 2322 = "Si Etalus usa NSPECIAL sobre el hielo, se cubrirá a sí mismo con una armadura de hielo."
 2323 = "Etalus puede usar DSPECIAL para romper todo el hielo y congelar a cualquier enemigo que estuviera sobre él."
 2324 = "Ori y Sein luchan en equipo. Si Sein está cerca de Ori al usar un ataque fuerte, su fuerza aumentará."
-2325 = "Pulsa NSPECIAL para que Sein lance una Llama Espiritual. Manténlo para cargar una Llama Cargada."
+2325 = "Pulsa NSPECIAL para que Sein lance una Llama Espiritual. Mantenlo para cargar una Llama Cargada."
 2326 = "Ori puede usar DSPECIAL para lanzar cualquier proyectil o rival en la dirección que quiera."
 2327 = "Ranno puede envenenar a sus oponentes con sus ataques especiales, que les causa daño cada vez que atacan."
 2328 = "Ranno puede atrapar oponentes en una burbuja. Cuánto más envenenados estén, más tiempo estarán dentro de ella."
@@ -2069,7 +2069,7 @@
 2733 = "Soporte de la Comunidad"
 2734 = "Producción"
 2735 = "Web"
-2736 = "Soporte del comsumidor"
+2736 = "Soporte del consumidor"
 2737 = "Soporte"
 2738 = "Contribuidores"
 
@@ -2079,10 +2079,10 @@
 
 2750 = "ESPACIO"
 2751 = "IZQ."
-2752 = "DERECHA"
-2753 = "ARRIBA"
-2754 = "ABAJO"
-2755 = "ACCEPTAR"
+2752 = "DER."
+2753 = "ARR."
+2754 = "ABA."
+2755 = "ACEPTAR"
 2756 = "MENÚ Y"
 2757 = "MENÚ LB"
 2758 = "MENÚ RB"
@@ -2132,7 +2132,7 @@
 3020 = "Ahora, es el turno de rodar."
 3021 = "Si mantienes alguna dirección al pulsar el botón de esquivar, rodarás en vez de bloquear."
 3022 = "Rodar no aturdirá al oponente, pero puede ser más seguro, pues puedes usarlo para alejarte del rival."
-3023 = "Intenta rodar para evitar 3 ataques mios de forma consecutiva."
+3023 = "Intenta rodar para evitar 3 ataques míos de forma consecutiva."
 3024 = "Vamos a probar ahora a esquivar en el aire, también conocido como 'Airdodge'."
 3025 = "Si pulsas el botón de esquivar en el aire, harás un 'Airdodge'.\nSi lo haces mientras pulsas alguna dirección en la palanca de control, el 'airdodge' te moverá en esa misma dirección."
 3026 = "Ve con cuidado. Al igual que con el segundo salto, una vez gastado, no podrás volver a usar el airdodge hasta que toques tierra."
@@ -2182,7 +2182,7 @@
 3066 = "Si mantienes el botón de salto durante más de 5 fotogramas (0.08 segundos), harás un salto completo, así que debes ser rápido. (Nota: a estos 5 fotogramas se les llama jumpsquat.)"
 3067 = "Venga, intenta saltar sobre mis proyectiles con un shorthop 3 veces seguidas."
 3068 = "Los shorthops son ideales para minimizar el tiempo que pasas en el aire, y así volver a tierra antes, lo que te permite hacer combos aún más largos."
-3069 = "Otra forma de aterrizar antes es caer rápido, o 'fastfall'. El fastfall consiste en recibir un impulso de velodidad hacia abajo de forma instantánea."
+3069 = "Otra forma de aterrizar antes es caer rápido, o 'fastfall'. El fastfall consiste en recibir un impulso de velocidad hacia abajo de forma instantánea."
 3070 = "Realizar un fastfall es muy simple. Mientras estés cayendo, mueve rápidamente hacia abajo la palanca de control."
 3071 = "No podrás hacer fastfall mientras estés ganando altura al saltar, así que asegúrate de hacerlo en cuanto llegues a la cima del salto."
 3072 = "Intenta saltar delante de mí y usar el fastfall para evitar mis ataques 3 veces seguidas."
@@ -2200,7 +2200,7 @@
 3082 = "Empecemos con la Influencia Direccional. DI, para abreviar."
 3083 = "La DI es la habilidad de cambiar el ángulo al que sales disparado cuándo te golpea un enemigo. Para hacer DI, simplemente mantén cualquier dirección en el stick al ser golpeado."
 3084 = "Si yo te golpeara con un golpe que naturalmente enviaría en esta dirección..."
-3085 = "Y tu movieras el stick en esta dirección..."
+3085 = "Y tú movieras el stick en esta dirección..."
 3086 = "Saldrías volando en esta nueva dirección."
 3087 = "Si mantienes el stick perpendicular al ángulo original del golpe, puedes alterar la trayectoria hasta 18 grados."
 3088 = "Pero recuerda, la DI solo cambia el ángulo, no altera la fuerza con la que te golpean."
@@ -2208,8 +2208,8 @@
 3090 = "Date cuenta de que al mantener el stick paralelo al ángulo original tiene un efecto igual a no hacer DI en absoluto."
 3091 = "Hay dos situaciones en que hacer DI:\n  1. Sobrevivir a ataques mortales (DI de Supervivencia)\n  2. Escapar combos (DI de Combo)"
 3092 = "La primera lección será sobre la DI de Supervivencia."
-3093 = "Esta línea discontínua representa el límite del mapa, o 'blastzone'.\nSi cruzas la blastzone, pierdes una vida."
-3094 = "Si te golpean con un golpe fuerte en esta dirección, lo mas probable es que cruces la blastzone si no haces DI."
+3093 = "Esta línea discontinua representa el límite del mapa, o 'blastzone'.\nSi cruzas la blastzone, pierdes una vida."
+3094 = "Si te golpean con un golpe fuerte en esta dirección, lo más probable es que cruces la blastzone si no haces DI."
 3095 = "Si haces DI hacia abajo, morirás incluso antes."
 3096 = "¡Sin embargo, al hacer DI hacia arriba, sobrevivirías al ataque! Fíjate que la flecha no cruza la línea."
 3097 = "¡Vamos a probarlo de verdad! Usa la DI para sobrevivir a mis ataques 3 veces seguidas."
@@ -2220,17 +2220,17 @@
 3102 = "Si mantienes el stick hacia el rival, lo tendrá fácil para seguir con más ataques."
 3103 = "En cambio, si lo mantienes hacia fuera, tendrá que moverse mucho más para poder golpearte otra vez."
 3104 = "Usa la DI para escapar de mi combo 3 veces seguidas. Bastará con que toques el suelo antes de salirte del escenario."
-3105 = "Y hasta aquí las bases de la DI. Con algunos ataques no te bastará con aplicar solo lo que has aprendido. Pero con un poco de práctica, la DI podrá saarte de muchas malas situaciones."
+3105 = "Y hasta aquí las bases de la DI. Con algunos ataques no te bastará con aplicar solo lo que has aprendido. Pero con un poco de práctica, la DI podrá sacarte de muchas malas situaciones."
 3106 = "Pasemos al Tech."
 3107 = "Verás, si golpeas el suelo mientras estás aturdido por algún ataque, quedarás expuesto brevemente. Y si te golpean con la suficiente fuerza contra el suelo, puedes incluso rebotar."
 3108 = "¡Para evitar estas situaciones, debes hacer tech!"
 3109 = "Si pulsas el botón de esquivar justo antes de tocar el suelo, harás un tech."
-3110 = "Realizar un tech te vuelve invencible brevemente, pero tu oponente pueder castigarte si te predice o reacciona a tiempo."
+3110 = "Realizar un tech te vuelve invencible brevemente, pero tu oponente puede castigarte si te predice o reacciona a tiempo."
 3111 = "Si mantienes el stick hacia un lado al hacer tech, rodarás. Normalmente se le llama 'tech roll'."
 3112 = "Rodar al hacer tech es más lento que hacerlo in situ, pero te ayuda a alejarte del oponente."
 3113 = "Eso sí, no te basta con aporrear el botón y rezar que salga. Tienes un margen de tiempo de 20 fotogramas (0.33 segundos) antes de tocar el suelo para tocar el botón."
 3114 = "Justo después de esos 20 fotogramas, hay otro periodo de 20 fotogramas en que no puedes intentar otro tech."
-3115 = "Pues bien, vamos allá. Haz tech a mis ataques 3 veces seguidas.\nSalta cerca mío cuando estés preparado."
+3115 = "Pues bien, vamos allá. Haz tech a mis ataques 3 veces seguidas.\nSalta cerca de mí cuando estés preparado."
 3116 = "También puedes hacer tech en una pared, de la misma forma que al hacerlos en el suelo."
 3117 = "Vamos a intentar combinar la DI y el tech en esta última prueba."
 3118 = "Primero, haz DI para llegar a tocar el muro y luego haz tech para no rebotar."
@@ -2251,7 +2251,7 @@
 3131 = "Ahora vamos a aprender a hacer combos."
 3132 = "El combo es el concepto de encadenar movimientos uno detrás de otro sin dejar escapar a tu oponente."
 3133 = "Debido a la DI, no se puede garantizar que un combo vaya a funcionar siempre. Para poder continuar con el combo, debes reaccionar según la dirección en que se muevan."
-3134 = "Vamos a probarlo. Empieza un combo con el primer golpe de UTILT, entonces variaré mi DI para alejarme o quedarme cerca tuyo."
+3134 = "Vamos a probarlo. Empieza un combo con el primer golpe de UTILT, entonces variaré mi DI para alejarme o quedarme cerca de ti."
 3135 = "Si me quedo cerca, golpéame con un aéreo. Si ves que me alejo, reacciona con un Dash Attack."
 3136 = "Hazme un combo 3 veces seguidas. Iré alternando entre DIs cada vez que hagas un combo."
 3137 = "Muchas veces no te bastará con reaccionar, y deberás predecir la DI del rival si quieres continuar el combo. Ciertas situaciones requieren ciertos tipos de combo, pero esto se aprende con mucha práctica y experiencia."
@@ -2264,7 +2264,7 @@
 3144 = "¡Bien! La siguiente lección te enseñará a lidiar con los parry enemigos."
 3145 = "Como sabes, si un oponente bloquea tu ataque, quedarás aturdido. La única excepción a esta regla es el combo de jabs, excluyendo el último golpe."
 3146 = "Si un oponente hace parry a uno de los dos primeros golpes de tu jab combo, obtendrán invencibilidad, pero no serás aturdido. Esto convierte el jab en una forma segura de presionar a tu oponente."
-3147 = "Pueba a golpearme con un jab y salir corriendo antes de que contraataque después de que te hacerte parry. Asegúrate de no dar con el tercer golpe del combo."
+3147 = "Prueba a golpearme con un jab y salir corriendo antes de que contraataque después de que te hacerte parry. Asegúrate de no dar con el tercer golpe del combo."
 3148 = "Vamos a sumar los tilts a la ecuación."
 3149 = Después de un jab, puedes seguir inmediatamente con un tilt en vez de seguir con otro jab."
 3150 = "Esto te permite asegurar el golpe de los tilts y variar tus ataques iniciales."
@@ -2276,13 +2276,13 @@
 3154 = "¡Bienvenido al tutorial de movimiento avanzado! Puede que ejecutar estas nuevas técnicas sea fácil, pero ponerlas en práctica en una partida real puede costar más de lo que crees."
 3155 = "Empecemos con el 'dash dance'."
 3156 = "Cuando pulsas la palanca para empezar a correr, entras en un estado llamado 'sprint inicial'. Este estado dura un corto tiempo, y luego pasas al estado de 'correr'."
-3157 = "Si intentas dar la vuelta durante el estado de 'correr', tendrás que esperar a que el personaje de la vuelta, lo cuál realentiza tu movimiento."
+3157 = "Si intentas dar la vuelta durante el estado de 'correr', tendrás que esperar a que el personaje de la vuelta, lo cual ralentiza tu movimiento."
 3158 = "Sin embargo, si das la vuelta durante el 'sprint inicial', el personaje girará automáticamente. A esto se le llama 'dash dance'."
-3159 = "El dash dance puede ser útil para entrar y salir del rango de ataque de tu rival. También sirve para ayudarte a hacer tus movimientos más impredicibles."
-3160 = "Intenta correr debajo mío y haz un dashdance antes de poder golpearte. (Empieza a correr relativamente cerca de mí, para que no entres el estado de 'correr'. Si haces la animación de media vuelta, tu puntuación volverá 0.)"
+3159 = "El dash dance puede ser útil para entrar y salir del rango de ataque de tu rival. También sirve para ayudarte a hacer tus movimientos más impredecibles."
+3160 = "Intenta correr debajo de mí y haz un dashdance antes de poder golpearte. (Empieza a correr relativamente cerca de mí, para que no entres el estado de 'correr'. Si haces la animación de media vuelta, tu puntuación volverá 0.)"
 3161 = "Usar repetidamente el dash dance es muy eficaz a la hora de confundir al enemigo, siempre y cuando lo hagas de forma impredecible."
-3162 = "Otra técnica con la que te puedes vlver impredecible es el 'wavedash'."
-3163 = "Un wavedash se hace al ejecutra un airdodge en dirección al suelo nada mas saltar. Al aterrizar, mantendrás toda la inercia que acarreara el airdodge."
+3162 = "Otra técnica con la que te puedes volver impredecible es el 'wavedash'."
+3163 = "Un wavedash se hace al ejecutar un airdodge en dirección al suelo nada más saltar. Al aterrizar, mantendrás toda la inercia que acarreara el airdodge."
 3164 = "Si angulas el airdodge horizontalmente, podrás moverte horizontalmente.\nSi lo angulas hacia abajo, harás un wavedash en el sitio."
 3165 = "Si pulsas el botón de esquiva durante el 'jumpsquat', puedes hacer un wavedash antes de dejar el suelo. A esto se le llama 'búfer-wavedash'"
 3166 = "Hacer un búfer-wavedash manteniendo el stick completamente horizontal te proporcionará el máximo movimiento posible que puedas hacer con un wavedash."
@@ -2294,11 +2294,11 @@
 3172 = "Para probar el waveland, atraviesa esta plataforma de un salto y haz un airdodge hacia ella cuando estés por encima. Repite esto 3 veces."
 3173 = "¡Excelente!"
 3174 = "Asegúrate de practicar estas técnicas de movimiento con frecuencia, ya que son vitales para tener un ataque intimidante y una defensa inquebrantable."
-3175 = "Aúnque ya sepas como ejecutar estos movimientos, aún necesitas descubrir cómo sacarles todo el jugo y en qúe situaciones usarlos."
+3175 = "Aunque ya sepas como ejecutar estos movimientos, aún necesitas descubrir cómo sacarles todo el jugo y en qué situaciones usarlos."
 
 //---- ADVANCED DEFENSE TUTORIAL
 3176 = "¡Bienvenido al tutorial de defensa avanzada! Las técnicas que verás en este tutorial son bastante situacionales, pero increíblemente útiles."
-3177 = "Primero vamos a aprender a sobrevivir cutras ser rematados hacia abajo fuera del escenario, también llamado 'spike'."
+3177 = "Primero vamos a aprender a sobrevivir tras ser rematados hacia abajo fuera del escenario, también llamado 'spike'."
 3178 = "Todo lo que necesitas es una buena combinación de DI y tech."
 3179 = "Haz DI a mi ataque en dirección al muro y haz tech en cuanto choques con él."
 3180 = "¡Guay!"
@@ -2334,7 +2334,7 @@
 3208 = "Mientras te des la vuelta, perderás velocidad de forma gradual, así que cuanto antes saltes, más rápido te moverás con el RAR."
 3209 = "Recuerda que no puedes entrar a la animación de girarse durante el sprint inicial, así que asegúarte de correr lo suficiente antes de girar."
 3210 = "En cuanto logres saltar querrás volver a pulsar hacia delante otra vez para mantener la velocidad que lleves."
-3211 = "En resumen, los pasos son:\nCorrer -> Pulsar hacia atrás + Salto -> Pulsar hacia delante -> Aéreo\nLos 3 inputs de enmedio deben ser hechos tan rápido como puedas."
+3211 = "En resumen, los pasos son:\nCorrer -> Pulsar hacia atrás + Salto -> Pulsar hacia delante -> Aéreo\nLos 3 inputs de en medio deben ser hechos tan rápido como puedas."
 3212 = "Intenta golpearme con 3 BAIRS con RAR mientras estoy fuera de pista.\nPuedes mirar ahí abajo si te sale el RAR correctamente."
 3213 = "¡Guay!"
 3214 = "La siguiente técnica se llama Especial Inverso."
@@ -2344,9 +2344,9 @@
 3218 = "Ahora vas a aprender a contrarrestar el parry.\nTodo lo que necesitas es paciencia."
 3219 = "Si tu oponente empieza a casi todo lo que haces, significa que te estas volviendo predecible."
 3220 = "Si eso pasa, puedes desconcertar a tu oponente haciendo ver que vas a atacar, pero retrasando un poco tu ofensiva."
-3221 = "Esto hará que intenten bloquarte antes de tiempo y serás tú quien pueda castigar ese error."
+3221 = "Esto hará que intenten bloquearte antes de tiempo y serás tú quien pueda castigar ese error."
 3222 = "Puedes hacer algo similar fallando tus ataques a propósito."
-3223 = "¡Probémoslo! En cuánto te acerques a mi, intentaré hacer parry.\nRetrasa tu ofensiva y catígame al fallar el parry."
+3223 = "¡Probémoslo! En cuánto te acerques a mí, intentaré hacer parry.\nRetrasa tu ofensiva y castígame al fallar el parry."
 3224 = "¡Fantástico!"
 3225 = "Si tu oponente se da cuenta y empieza a pillar tus ataques atrasados, puedes alternar entre ataques normales y atrasados para confundirle otra vez."
 3226 = "Y si realmente quieres optimizar tus combos al máximo, puedes incorporar en ellos el 'hitfalling'."
@@ -2370,54 +2370,54 @@
 3242 = "Si aún no has usado el airdodge, puedes usarlo para cancelar USPECIAL antes de que empiece a moverse. Esto es de vital importancia para evitar ataques enemigos fuera del escenario."
 3243 = "Intenta cancelar tu USPECIAL con un airdodge 3 veces."
 3244 = "¡Bien!"
-3245 = "Cuando Zetterburn golpea a un oponente con Dash Attack, puede cancelarlo intantáneamente si usa un USTRONG."
+3245 = "Cuando Zetterburn golpea a un oponente con Dash Attack, puede cancelarlo instantáneamente si usa un USTRONG."
 3246 = "A esto se le llama el Combo Gatling. A pesar de que el USTRONG se puede evitar con la DI correcta, sigue siendo una herramienta extremadamente fuerte."
 3247 = "Para hacer un combo gatling, haz el input para USTRONG nada más golpear con Dash Attack."
 3248 = "Intenta golpearme con 3 combos gatling seguidos."
 3249 = "¡Genial!"
-3250 = "El NSPECIAL de Zetterburn no es solamente el ataque más rápido del juego, sinó que puedes cancelarlo con un salto."
+3250 = "El NSPECIAL de Zetterburn no es solamente el ataque más rápido del juego, sino que puedes cancelarlo con un salto."
 3251 = "Si saltas durante los fotogramas de recuperación de NSPECIAL, podrás actuar de forma instantánea sin esperar a que acabe el movimiento."
 3252 = "Intenta saltar de NSPECIAL 3 veces."
 3253 = "¡Fantástico!"
 3254 = "¡Esto concluye el tutorial de Zetterburn!"
 
 //---- ORCANE TUTORIAL
-3255 = "Welcome to the Orcane tutorial!"
-3256 = "Orcane, the Puddle Jumper, is one of the more complex rivals with a strong emphasis on zoning opponents out. Succeeding with Orcane requires a lot of planning."
-3257 = "His playstyle revolves around placing puddles on the ground and using them to control space. NSPECIAL, DSPECIAL, and grounded USPECIAL all create puddles."
-3258 = "Try making a puddle with each of these attacks. I'll clean up the puddles right after you make them."
-3259 = "Having a puddle onstage is essential to recovering as Orcane."
-3260 = "If a puddle is already on the stage, your USPECIAL will teleport you directly to the puddle, no matter how far away it is."
-3261 = "Teleporting to a puddle also functions as an extremely strong attack. However, this attack has significant endlag, so it can be punished easily if the opponent is ready."
-3262 = "Try using the aerial version of USPECIAL to teleport to a puddle 3 times."
-3263 = "You can also use puddles to boost your strong attacks."
-3264 = "Using a strong attack while standing on a puddle will extend its range significantly."
-3265 = "Try hitting me with one of each boosted strong attack."
-3266 = "Nice!"
-3267 = "When used on a puddle, Orcane's FSPECIAL receives a significant boost in kill power."
-3268 = "But before that, let's learn a little more about how FSPECIAL works."
-3269 = "Normally, when you use FSPECIAL in the air, you will enter the helpless fall state. If you hit an enemy with the attack, however, you will avoid the helpless fall state and instead remain fully actionable."
-3270 = "You can also change the length of the attack by holding backward or forward after using it."
-3271 = "So now let's try it out. Try hitting me 3 times with a puddle-boosted FSPECIAL, then recovering immediately afterward."
-3272 = "Great!"
-3273 = "One of Orcane's strongest zoning tools is his ability to create a wall of bubbles."
-3274 = "Using DSPECIAL while a puddle already exists will make the puddle erupt into a large column of bubbles. These bubbles can be angled by holding left or right."
-3275 = "Orcane's FAIR creates a horizontal flow of bubbles. These bubbles can be angled by holding up or down."
-3276 = "Bubbles are great for trapping opponents in order to disrupt their attacks or even follow up with an attack of your own."
-3277 = "Try hitting me with both types of bubbles."
-3278 = "Orcane's FAIR has another interesting property."
-3279 = "If he has the right amount of momentum when using it, his back side gains a hitbox. This is called 'Bubble Butt'."
-3280 = "Hold backward immediately after using FAIR, and you'll get an extreme speed boost."
-3281 = "Try hitting me with Bubble Butt 3 times."
-3282 = "This next technique is an advanced way to recover when you have no puddle."
-3283 = "If you use USPECIAL right after using your double jump, you will get a large vertical boost even without a puddle. This is called an 'Orcahop'."
-3284 = "Try Orcahopping 3 times.\nThe timing is very tight, so use USPECIAL immediately after double jumping."
-3285 = "This last technique allows you to slide across the stage while charging a strong attack."
-3286 = "When Orcane turns around while running, he gets a slight boost forward before accelerating backward."
-3287 = "Start a strong attack during the beginning of his turnaround state, and he will maintain his momentum and slide far across the stage. This is called 'Hydroplaning'."
-3288 = "Try hitting me with 3 hydroplane puddle USTRONGs. I'll create a puddle for you."
-3289 = "Fantastic!"
-3290 = "This concludes the Orcane tutorial!"
+3255 = "¡Bienvenido al tutorial de Orcane!"
+3256 = "Orcane, el Saltador de Charcos, es uno de los rivales más complejos, con un gran énfasis en mantener las distancias con el enemigo. Salir victorioso con Orcane requiere mucha planificación."
+3257 = "Su estilo de juego se centra en la idea de colocar charcos en el suelo y usarlos para controlar la pista. NSPECIAL, DSPECIAL, y USPECIAL (desde el suelo) pueden crear charcos."
+3258 = "Intenta hacer un charco con cada uno de esos ataques. Ya me encargo yo de limpiarlos en cuánto los pongas."
+3259 = "Tener charcos en el escenario es esencial a la hora de recuperarse con Orcane."
+3260 = "Si ya hay algún charco en el escenario, USPECIAL te teletransportará directamente al charco, no importa lo lejos que esté."
+3261 = "Teletransportarse al charco también sirve como un ataque extremadamente potente. Sin embargo, te deja expuesto durante mucho rato tras golpear, por lo que el oponente puede contraatacar si espera el ataque."
+3262 = "Intenta usar la versión aérea de USPECIAL para teletransportarte a un charco 3 veces."
+3263 = "También puedes usar los charcos para potenciar tus ataques fuertes."
+3264 = "Si usas un ataque fuerte al estar encima de un charco, el rango del ataque se extenderá de forma significativa."
+3265 = "Intenta golpearme con cada uno de tus ataques fuertes mejorados."
+3266 = "¡Bien!"
+3267 = "Los ataques fuertes no son los únicos que mejoran sobre un charco. Si usas FSPECIAL sobre un charco, te será más fácil matar a tu oponente."
+3268 = "Pero antes de eso, vamos a ver cómo funciona FSPECIAL."
+3269 = "Normalmente, al usar FSPECIAL en el aire, entrarás el estado de caída libre. Sin embargo, si consigues golpear a un enemigo con el ataque, evitarás la caída libre y podrás reaccionar inmediatamente."
+3270 = "También puedes elegir la distancia que recorre si cambias la dirección del stick hacia delante o hacia atrás."
+3271 = "Y ahora, toca probarlo. Intenta golpearme con un FSPECIAL mejorado con un charco 3 veces y luego vuelve al escenario sano y salvo."
+3272 = "¡Genial!"
+3273 = "Una de las herramientas más útiles que tiene Orcane para mantener las distancias es su habilidad para crear una pared de burbujas."
+3274 = "Si usas DSPECIAL teniendo un charco en el escenario, el charco se convertirá en un pilar de burbujas. Estas burbujas las puedes redirigir hacia ambos lados."
+3275 = "El FAIR de Orcane deja un rastro de burbujas allá dónde va. Estas burbujas se pueden redirigir hacia arriba o hacia abajo."
+3276 = "Las burbujas son geniales para atrapar enemigos. Puedes aprovecharlas para interrumpir los ataques de tus rivales e incluso para seguir con tus propios ataques."
+3277 = "Intenta golpearme con ambos tipos de burbujas."
+3278 = "El FAIR de Orcane tiene otra propiedad bastante interesante."
+3279 = "Si va lo suficientemente rápido, en su espalda aparecerá una hitbox. Esto se llama 'Bubble Butt'."
+3280 = "Mantén la palanca de control hacia atrás nada más empezar FAIR y recibirás un acelerón."
+3281 = "Intenta golpearme con el Bubble Butt 3 veces."
+3282 = "La siguiente técnica es una forma avanzada de recuperarse en caso de no tener charco."
+3283 = "Si usas USPECIAL justo después de usar tu segundo salto, conseguirás llegar mucho más alto de lo normal. Esta técnica se llama 'Orcahop'."
+3284 = "Intenta hacer un Orcahop 3 veces.\nTendrás poco tiempo para hacerlo, así que usa USPECIAL inmediatamente después de usar el doble salto."
+3285 = "Esta última técnica te permite desplazarte por casi todo el mapa mientras cargas un ataque fuerte."
+3286 = "Cuando Orcane se da la vuelta al correr, recibe un pequeño impulso hacia delante antes de volver hacia atrás."
+3287 = "Si empiezas un strong nada más empezar a girar, Orcane mantendrá el impulso y deslizará por el escenario. Esto se llama el 'Hydroplane'."
+3288 = "Intenta golpearme con 3 USTRONGS mejorados con un charco usando el hydroplane. Ya me ocupo yo de poner el charco."
+3289 = "¡Fantástico!"
+3290 = "¡Esto concluye el tutorial de Orcane!"
 
 //---- WRASTOR TUTORIAL
 3291 = "Welcome to the Wrastor tutorial!"
