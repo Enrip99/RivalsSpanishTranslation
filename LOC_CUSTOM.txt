@@ -97,7 +97,7 @@
 103 = "Tu oponente quiere jugar partidas a `1 vidas y `2 minutos. ¿Estás de acuerdo?"
 104 = "¿Quieres activar el modo desarrollador con tu oponente? Asegúrate de tener los mismos archivos"
 105 = "¿Quieres desactivar el modo desarrollador?"
-106 = "¿Quieres activar los mapas al azar?
+106 = "¿Quieres activar los mapas al azar?"
 107 = "¿Quieres desactivar los mapas al azar?"
 108 = "Tu oponente quiere activar los mapas al azar. ¿Estás de acuerdo?"
 109 = "¿Quieres adentrarte al abismo?" //This popup appears after a cutscene after beating the final boss. If you choose yes, you go into the abyss stage. Otherwise you return to the main menu.
