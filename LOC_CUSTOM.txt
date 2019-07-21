@@ -463,7 +463,7 @@
 493 = "Comprueba tus estadísticas con cada personaje y perfil."
 494 = "Mi región"
 495 = "Elige tu región más cercana para un mayor disfrute en línea."
-496 = "@352"
+496 = "Paletas pers."
 497 = "Elige qué paletas personalizadas verás en línea."
 450 = "Mascotas"
 451 = "Muestra las mascotas de todos o solo las tuyas."
