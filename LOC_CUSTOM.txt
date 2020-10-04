@@ -2087,7 +2087,7 @@
 2417 = "Capital del Fuego NEO"
 2418 = "Estuario Pantanoso"
 2419 = "Bosque Profundo"
-2420 = "Julesvale" //Villajuelos
+2420 = "Villajuelos" //Villajuelos
 2421 = "Charca Truchanzana"
 2422 = "Sala de Práctica"
 2423 = "Instituto Éter"
