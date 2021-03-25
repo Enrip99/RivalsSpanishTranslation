@@ -52,7 +52,6 @@ Menús
 
 
 - Tutorial
- - Principiante a Básico ¿?
 
 - Historia
  - Más inconsistencias con la descripción de la final - Todo el aether¿?
@@ -75,13 +74,11 @@ Tutoriales
 
 - Tut basico ataque
  - Aclararme si uso ataque en carrera o dash attack en todo el juego
- - El stick doce veces
+
 
 - Movimiento intermedio
- - STICK STICK STICK STICK
 
 - Defensa intermedia
- - STICK EVERYWHERE
 
 - Ofensiva intermedia
  - parry en singular? No se siente correcto - aun asi, esto hay que mirarlo con lo de bloquear/parry
@@ -150,7 +147,7 @@ Tutoriales
  - y USPECIAL en tierra
  - restructurar y reducir tamaño de Mientras tenga la armadura, Etalus...
  - Lanzará pequelos témpanos .... sobra mayuscula
- - 3 opciones que hacer al salir del hielo, ----- todas inmediatamente 
+ - 3 opciones que hacer al salir del hielo, ----- todas inmediatamente
 
 - Ori y Sein
  - Golpe --- acabes perdiendo una vida
