@@ -1,0 +1,184 @@
+PREGUNTAR:
+
+ - Lo de counterpick en el escenario en Round 1
+ - Que hacer con el mundo del Éter
+
+
+
+Untranslatable
+
+
+-Ya pedido
+ - Workshop characters: Enter/Delete/Add Category name
+ - Controles teclado: New Key, OK, Cancel
+ - Casual online: FFA
+ - Has desblqueado "A MILESTONE REWARD"
+
+
+-Hecho yo
+ - custom colors: RGB/HSV (lo he hecho yo)
+ - ¡FIN! ¡TIEMPO! ¡JUEGO Y SET! ¡YA!
+ - LISTO, 1ro 2do 3ro 4to (result screen)
+ - Nuevo, Viejo, Sobrevive (tutorial DI)
+ - OLEADA COMPLETA
+
+
+NUEVO/EDITADO:
+
+
+
+Misc
+
+ - Retroceso (knockback) a algo distinto. ¿Lanzamiento?
+
+
+
+Mid-game
+
+
+
+Bug reports:
+ - si le haces varios shines seguidos a Orby cuando hay que baitear el parry, orby se quedará mid-air haciendo parry en el aire. Si llegas a 3 con eso, no te parará y tendrás que darle un a 4ª vez. También es posible que se quede con la animación de parry para el resto del tutorial si lo timeas bien.
+ - Sein puede ser usado aunque haya texto en pantalla en el tutorial
+
+
+
+Menús
+
+- Online
+
+- Local
+ - Versus abisal - corregir a...¿?
+
+
+- Tutorial
+ - Principiante a Básico ¿?
+
+- Historia
+ - Más inconsistencias con la descripción de la final - Todo el aether¿?
+
+- Opciones
+
+- CSS
+
+- Workshop
+
+
+
+Tutoriales
+
+- Tut basico movimiento
+
+
+- Tut basico defensa
+
+
+- Tut basico ataque
+ - Aclararme si uso ataque en carrera o dash attack en todo el juego
+ - El stick doce veces
+
+- Movimiento intermedio
+ - STICK STICK STICK STICK
+
+- Defensa intermedia
+ - STICK EVERYWHERE
+
+- Ofensiva intermedia
+ - parry en singular? No se siente correcto - aun asi, esto hay que mirarlo con lo de bloquear/parry
+
+- Movimiento Avanzado
+ - El dashdance necesita un revamp total
+
+- Defensa avanzada
+ - SDI: Influencia Direccional de Desplazamiento - Re-redactar como la introduzco para meterlo también en inglés? Preguntar a readek i guess
+ - Drift DI > DI de deriva? O algo asi? mirarlo
+
+- Ataque avanzado
+ - Recuerda que no puedes entrar en la animación de
+ - HAY ALGO SIN TRADUCIR LMAO
+ - Si tu oponente empieza a reaccionar a casi todo lo que haces, significa que te estás volviendo predecible.
+ - ¡Proémoslo! En cuanto... (mayus)
+ - TODO EL HITFALL
+
+- Zetterurn
+ - Strongs vs Fuertes
+
+- Orcane
+ - El FAIR de ORcane ---- allá donde va, sin tilde
+
+- Wrastor
+ - intro - y potencial para hacer combos
+ - strongs bla blabla
+ - NSPECIAL le hace girar cual tornado (sin tilde)
+ - Si alguno de los tilts (con S)
+
+- Kragg
+ - Una de las herra... sacar UN bloque de piedra
+ - También le permite usar ataques TERRESTRES en sitios...
+
+- Forsburn
+ - Al usar NSPECIAL, Forsburn liberará humo durante un tiempo. Estar dentro del humo ocultará a Forsburn mientras no ataque.
+ - Como un personaje cualquiera. Sin embargo, el clon no puede atacar de forma normal
+ - DSPECIAL se convierte en una fuerte explosión que sale del centro de Forsburn
+ - Estaré tan alto que ..., así que (quitar mayuscula)
+ - REHACER FSTRONG DTILT
+
+- Maypul
+ - la atadura dependerá del CAÑO ... tiempo HAYAS cargado
+ - En caso contrario, aparecerá... > Si no lo haces, ...
+ - Estandarizar liana/cuerda
+ - *le* gancho de USPECIAL baguette
+ - USPECIAL ... como un GOLPE DE GANCHO que....
+ - button prompt: marca a un oponente > marca al oponente
+ - El DSPECIAL de Maypul invoca a Lily, su planta ayudante.\nLily atacará----
+ - Lily desaparecerña tras estar un rato en pantalla
+ - A veces puede ser un poco dificil recuperarse con Maypul si ningún enemigo tiene una marca puesta.
+ - Donde UAIR: quitar el segundo "vertical"
+
+- Absa
+ - campo de batalla para controlar los movimientos
+ - para colocar una nube debajo de ti., --- . Si mantienes pulsado FSPECIAL, puedes mover la nube arriba y abajo usando la palanca.
+ - Cuando la cadena esté completa, emitirá una gran descarga eléctrica. Pero hasta ese momento, no hará nada de daño.
+ - Si mantienes... Asa se colocará la cadena alrededor suyo en vez de en una nube.
+ - está siguiendo a absa y *le golpean*, la...
+ - Absa se moverá hacia allá. (dirección triple)
+ - USPECIAL en el suelo y te mueves solamente hacia arriba, podrás...
+ - HAY UNA SIN TRADUCIR
+ - , ya que lanzarás el ataque mientras desciendes...
+
+- Etalus
+ - y USPECIAL en tierra
+ - restructurar y reducir tamaño de Mientras tenga la armadura, Etalus...
+ - Lanzará pequelos témpanos .... sobra mayuscula
+ - 3 opciones que hacer al salir del hielo, ----- todas inmediatamente 
+
+- Ori y Sein
+ - Golpe --- acabes perdiendo una vida
+ - la ventana de tiempo es mucho más permisiva y casi instantánea
+
+- Ranno
+ - Meterle el titulo
+ - cada vez que un oponente envenenado REALICE
+ - Ten cuidado: ¡los enemigos....
+
+- Clairen
+ - Meterle el titulo
+ - Cualquier proyectil que entre en el campo...
+
+- Sylvanos
+ - Meterle el titulo
+ - semillas .... Si una *golpea* un enemigo...
+ - COMBOS FSPECIAL A AEREOS > reworked - arreglar el button prompt tambien
+
+- Elliana
+ - Meterle el titulo
+
+- Shovel Knight
+ - Golpear el bloque con .--- lo lanzará
+ - Compras ... Usa izquierda y derecha
+ - CUerno ... EL exterior de la onda es...
+ - Engranaje movil. Mucho texto
+ - Armaduras en la tienda. La más barata (mayuscula needed)
+ - Cuanto más mantengas ... (daga) sobra tilde en cuanto
+ - Mientras estés en el suelo, Shovel Knight puede cancelar el movimiento si salta, pero solo si aún no ha golpeado a nadie.
+ - ¡ESTO FINALIZA EL TUTORIAL DE SHOVEL KNIGHT!
