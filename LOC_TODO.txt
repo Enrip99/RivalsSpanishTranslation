@@ -86,8 +86,7 @@ Tutoriales
 
 
 - Defensa avanzada
- - SDI: Influencia Direccional de Desplazamiento - Re-redactar como la introduzco para meterlo también en inglés? Preguntar a readek i guess
- - Drift DI > DI de deriva? O algo asi? mirarlo
+
 
 - Ataque avanzado
  - Recuerda que no puedes entrar en la animación de
