@@ -97,7 +97,6 @@ Tutoriales
 - Orcane
 
 - Wrastor
- - intro - y potencial para hacer combos
  - strongs bla blabla
  - NSPECIAL le hace girar cual tornado (sin tilde)
  - Si alguno de los tilts (con S)
