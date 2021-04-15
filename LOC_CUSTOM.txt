@@ -2926,7 +2926,7 @@
 //---- KRAGG TUTORIAL
 3317 = "¡Bienvenido al tutorial de Kragg!"
 3318 = "Kragg, el Bastión de la Tierra, es bastante más lento que la mayoría de personajes. Sin embargo, es pesado y fuerte, y sabe como aguantar un buen golpe."
-3319 = "Una de las herramientas más útiles de Kragg es su habilidad que le permite sacar bloque de piedra de cualquier superficie."
+3319 = "Una de las herramientas más útiles de Kragg es su habilidad que le permite sacar un bloque de piedra de cualquier superficie."
 3320 = "Usa NSPECIAL desde el suelo para sacar una roca."
 3321 = "Una vez tengas una roca en la mano, puedes lanzarla de cuatro formas:\nLanzamiento neutral (NTHROW), frontal (FTHROW), hacia arriba (UTHROW) y hacia abajo (DTHROW)."
 3322 = "Recuerda: Kragg solo puede tener en juego una sola roca en todo momento, pero puedes coger una roca cercana usando NSPECIAL cerca de ella."
@@ -2941,7 +2941,7 @@
 3331 = "Esto también funciona con rocas y pilares, pero solo durante un corto tiempo."
 3332 = "Intenta golpearme con un aéreo tras cancelar tu FSPECIAL con un salto 3 veces."
 3333 = "El USPECIAL de Kragg es bastante peculiar y versátil."
-3334 = "Usar USPECIAL invoca un pilar bajo los pies de Kragg, lo que le permite recuperar el segundo salto y el airdodge. ¡También le permite usar ataques desde el suelo en sitios que el resto de rivales no podrían!"
+3334 = "Usar USPECIAL invoca un pilar bajo los pies de Kragg, lo que le permite recuperar el segundo salto y el airdodge. ¡También le permite usar ataques terrestres en sitios que el resto de rivales no podrían!"
 3335 = "Mientras asciende, el pilar golpeará enemigos y los llevará hasta la cima. Y si el daño del rival es suficiente, puedes hasta seguir con más ataques!."
 3336 = "Pero ve con cuidado. El pilar se romperá instantáneamente si recibe cualquier golpe, dejando a cualquiera que estuviera sobre él en caída libre."
 3337 = "Mientras asciende, el pilar es invencible a todos los ataques, y tras subir, podrá aguantar proyectiles durante un corto periodo de tiempo."
