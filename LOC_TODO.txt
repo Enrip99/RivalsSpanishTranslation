@@ -73,7 +73,6 @@ Tutoriales
 
 
 - Tut basico ataque
- - Aclararme si uso ataque en carrera o dash attack en todo el juego
 
 
 - Movimiento intermedio
