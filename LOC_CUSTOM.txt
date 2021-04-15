@@ -2748,12 +2748,13 @@
 //---- ADVANCED MOVEMENT TUTORIAL
 3154 = "¡Bienvenido al tutorial de movimiento avanzado! Puede que ejecutar estas nuevas técnicas sea fácil, pero ponerlas en práctica en una partida real puede costar más de lo que crees."
 3155 = "Empecemos con el 'dash dance'."
-3156 = "Cuando pulsas la palanca para empezar a correr, entras en un estado llamado 'sprint inicial'. Este estado dura un corto tiempo, y luego pasas al estado de 'correr'."
-3157 = "Si intentas darte la vuelta durante el estado de 'correr', tendrás que esperar a que el personaje de la vuelta, lo cual ralentiza tu movimiento."
-3158 = "Sin embargo, si das la vuelta durante el 'sprint inicial', el personaje girará automáticamente. A esto se le llama 'dash dance'."
+3156 = "Cuando pulsas la palanca para empezar a correr, tu personaje da un pequeño sprint para tomar carrerilla, y poco después pasa a correr de forma normal."
+3157 = "Si intentas darte la vuelta cuando ya estás corriendo, tendrás que esperar a que el personaje se gire del todo, lo cual realentiza tu movimento."
+3158 = "Sin embargo, si lo haces durante el sprint inicial, el personaje girará automáticamente. A esto se le llama 'dash dance'."
 3159 = "El dash dance puede ser útil para entrar y salir del rango de ataque de tu rival. También sirve para ayudarte a hacer tus movimientos más impredecibles."
-3160 = "Intenta correr debajo de mí y haz un dashdance antes de poder golpearte. (Empieza a correr relativamente cerca de mí, para que no entres el estado de 'correr'. Si haces la animación de media vuelta, tu puntuación volverá 0.)"
+3160 = "Intenta correr por debajo de mí y haz un dashdance para huir antes de poder golpearte. (Empieza a correr relativamente cerca de mí, para que no llegues a correr del todo. Si haces la animación de media vuelta, tu puntuación volverá 0.)"
 3161 = "Usar repetidamente el dash dance es muy eficaz a la hora de confundir al enemigo, siempre y cuando lo hagas de forma impredecible."
+
 
 3162 = "Otra técnica con la que te puedes volver impredecible es el 'wavedash'."
 3163 = "Un wavedash se hace al ejecutar un airdodge en dirección al suelo nada más saltar. Al aterrizar, mantendrás toda la inercia que acarreara el airdodge."
