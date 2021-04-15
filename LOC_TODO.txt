@@ -1,6 +1,5 @@
 PREGUNTAR:
 
- - Lo de counterpick en el escenario en Round 1
  - Que hacer con el mundo del Éter
 
 
@@ -77,7 +76,9 @@ Tutoriales
 
 - Movimiento intermedio
 
+
 - Defensa intermedia
+
 
 - Ofensiva intermedia
  - parry en singular? No se siente correcto - aun asi, esto hay que mirarlo con lo de bloquear/parry
@@ -106,10 +107,6 @@ Tutoriales
 
 
 - Forsburn
- - Al usar NSPECIAL, Forsburn liberará humo durante un tiempo. Estar dentro del humo ocultará a Forsburn mientras no ataque.
- - Como un personaje cualquiera. Sin embargo, el clon no puede atacar de forma normal
- - DSPECIAL se convierte en una fuerte explosión que sale del centro de Forsburn
- - Estaré tan alto que ..., así que (quitar mayuscula)
  - REHACER FSTRONG DTILT
 
 - Maypul
