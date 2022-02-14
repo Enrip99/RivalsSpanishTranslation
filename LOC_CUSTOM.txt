@@ -155,6 +155,7 @@
 138 = "¿Quieres proteger la sala con un PIN?"
 139 = "Introduce el PIN de tu sala"
 140 = "¿Crear una sala solo para amigos?"
+141 = "Esta sala tiene las siguientes reglas:"
 
 //---- Character Titles
 150 = "???"
@@ -198,6 +199,12 @@
 189 = "S.K." // shortest form
 190 = "Ragnir"
 191 = "Añadido"
+192 = "@188"
+193 = "Mollo"
+194 = "Hodan"
+195 = "Pomme"
+196 = "Olympia"
+197 = "Olym."
 
 //---- Popup Message OK [200-289]
 200 = "Se ha detectado un cierre de sesión\nPor favor, inicia sesión con otro usuario."
@@ -239,7 +246,7 @@
 236 = "¡Felicidades!\n¡Has desbloqueado \nEl Abismo Infinito!"
 237 = "¡Felicidades!\n¡Has desbloqueado el \nSegundo Color Personalizable!"
 238 = "¡Felicidades!\n¡Has desbloqueado el \nModo Abismo!"
-239 = "¡Has desbloqueado \nel color abisal \nde `1!" // Ingame, `1 is replaced with the character name (eg. ZETTERBURN)
+239 = "¡Has desbloqueado \nel color abisal \nde `1!" // `1 is replaced with the character name (eg. ZETTERBURN)
 240 = "- Error -\nLa repetición está corrupta." // when attempting to view a replay that has corrupted data
 241 = "Necesitas \n comprar a \nShovel Knight." // for Troupple Pond unlock
 242 = "- Mensaje no enviado -\nNo hay oponentes conectados."
@@ -253,7 +260,7 @@
 250 = "Nuevo jugador conectado.\nLa configuración se ha reiniciado."
 251 = "`1 ha desactivado los equipos."
 252 = "`1 ha desactivado el modo abismo."
-253 = "Tu oponente no ha querido revancha."
+253 = "Tu oponente no quiso revancha."
 254 = "Antes de jugar en línea, completa la configuración."
 255 = "Antes de jugar en línea, elige tu región y completa la configuración."
 256 = "- Error -\nEsta repetición contiene personajes que no están instalados."
@@ -268,6 +275,10 @@
 265 = "No tienes personajes sincronizados con tu oponente."
 266 = "Alcanza el Rango de Plata para desbloquearlo"
 267 = "Alcanza el Rango de Diamante para desbloquearlo"
+268 = "No se encontraron datos de partida."
+269 = "`1 no ha aceptado las reglas."
+270 = "- Aviso -\nEsta repetición contiene datos de personajes personalizados y probablemente se desincronize. ¿Quieres mirarla igualmente?"
+271 = "Para desbloquearla, descarga\nCreatures of Aether\ngratis en Steam."
 
 //----
 290 = "LISTO PARA LUCHAR"
@@ -340,8 +351,8 @@
 335 = "Ajusta la música y los efectos de sonido."
 336 = "Vídeo"
 337 = "Ajusta la configuración de vídeo para una experiencia óptima."
-338 = "Modo Mando"
-339 = ""
+338 = "Gráficos"
+339 = "Cambia los ajustes de renderización de los gráficos"
 340 = "@318"
 341 = "@319"
 342 = "Mandos y Perfiles"
@@ -430,6 +441,8 @@
 411 = "Cambia el idioma del juego."
 412 = "sincr. vertical"
 413 = "Sincroniza la tasa de refresco del juego con la de tu monitor."
+564 = "Accesibilidad"
+565 = "Reduce la intensidad de ciertos efectos visuales."
 
 //---- Sound Options
 414 = "Música"
@@ -508,7 +521,7 @@
 477 = "@443"
 
 //---- Solo Modes
-478 = "historia"
+478 = "Historia"
 479 = "Desenreda los misteriosos conflictos del mundo del Éter."
 480 = "Abismo"
 481 = "Derrota criaturas sombrías y mejora tus luchadores en el Abismo."
@@ -544,6 +557,8 @@
 549 = "NO" // for Wi-Fi Mode (must fit in 4 characters)
 550 = "SÍ" // for Wi-Fi Mode (must fit in 4 characters)
 551 = "NO" // for Wi-Fi Mode
+566 = "Barra superior"
+567 = "Activa la barra de estado en la parte superior (nombre/puntos)."
 
 //---- Team Match Sub-Menu
 502 = "Por Equipos Casual"
@@ -588,6 +603,16 @@
 537 = "@443"
 // (538 used)
 // (539 used)
+
+//---- Character Specific Tutorial Sub-Menu 2 (cont)
+580 = "@193"
+581 = "Aprende a apagar el fuego con Mollo, la Furia Ardiente."
+582 = "@194"
+583 = "Aprende a sentirte en harmonía con Hodan, el Sabio de las Termas."
+584 = "@195"
+585 = "Aprende a brillar en escena con Pomme, la Cantante Superestrella."
+586 = "@196"
+587 = "Aprende a hacer brillar tu poder con Olympia, el Puño de Amatista."
 
 
 //----------------------------
@@ -717,6 +742,7 @@
 691 = "EXPORTAR VÍDEO"
 
 //---- Sound Test display
+693 = "Animación sincronizada por"
 694 = "Sin sonido"
 695 = "Música del mapa"
 696 = "Interpretada por"
@@ -800,6 +826,7 @@
 758 = "[`1] / [`2]: Cambia la velocidad máxima de la cámara"
 759 = "Pulsa [`1] para activar el avance de Fotogramas."
 
+//--- Pause: menu header text
 760 = "MENÚ DE PAUSA"
 761 = "MANDOS"
 
@@ -815,6 +842,7 @@
 783 = "Fotograma pausado"
 784 = "Mantén `1"
 785 = "CONTROLAR" // Training CPU action: makes them controlled by controllers
+786 = "Pulsa F5 para recargar los personajes y mascotas personalizados."
 
 //---- HUD: Abyss Objectives
 801 = "Derrota `1 enemigos débiles"
@@ -986,13 +1014,13 @@
 959 = "NORMAL"
 960 = "OPEN THE\nGATES"
 961 = "ARDENT\nRIVAL"
-962 = "" //No existing translation for Counterpick that fits this context (stage can be either starter or counterpick) that can fit in 11 chars.
+962 = "COUNTERPICK"
 963 = "¡Tacha un escenario!"
 964 = "MAPAS PRINCIPALES"
 965 = "MAPAS PERSONALIZADOS"
 966 = "Hecho por"
 967 = "" // reserved
-968 = "TACHAR MAPA"
+968 = "BLOQUEAR MAPA"
 
 //---- Popups
 970 = "EDITAR NOMBRE"
@@ -1677,6 +1705,82 @@
 1832 = "¡COMPLETADO!"
 
 
+//---- MOLLO TUTORIAL
+1833 = "GOLPES DE BOMBA: "
+1834 = "{-1,PR_SPECIAL}, luego {-1,PR_STRONG} (puedes ajustar el ángulo)"
+1835 = "GOLPES CON BOMBA BÁSICA"
+1836 = "{90,-1} manteniendo {-1,PR_SPECIAL}, luego {-1,PR_STRONG} para lanzar"
+1837 = "GOLPES CON TRACA"
+1838 = "{180,-1} manteniendo {-1,PR_SPECIAL}, luego {-1,PR_STRONG} para lanzar"
+1839 = "GOLPES CON ATURDIDORA"
+1840 = "{0,-1} manteniendo {-1,PR_SPECIAL}, luego {-1,PR_STRONG} para lanzar"
+1841 = "GOLPES CON BOMBA FINAL"
+1842 = "{270,-1} manteniendo {-1,PR_SPECIAL}, luego {-1,PR_STRONG} para lanzar"
+1843 = "BOMBAS DETONADAS CON FSPECIAL: "
+1844 = "{-1,PR_SPECIAL}, luego mantén {0,PR_SPECIAL}"
+1845 = "BOMBAS DETONADAS CON DSPECIAL: "
+1846 = "{-1,PR_SPECIAL}, luego {270,PR_SPECIAL}"
+1847 = "BOMBAS DETONADAS CON USPECIAL: "
+1848 = "{-1,PR_SPECIAL}, luego {90,PR_SPECIAL}"
+1849 = "BOMBAS LANZADAS CON ATAQUE EN CARRERA: "
+1850 = "{-1,PR_ATTACK} mientras corres hacia una bomba"
+1851 = "FAIR CARGADOS: "
+1852 = "Mantén {0,PR_ATTACK} en el aire"
+1853 = "DSTRONGS CONTINUADOS: "
+1854 = "{270,PR_STRONG}, luego {1,-1}{12,JOY}{181,-1}, luego {-1,PR_ATTACK}"
+
+//---- HODAN TUTORIAL
+1855 = "FSPECIAL CARGADOS: "
+1856 = "Mantén {270,-1}, e inmediatamente {0,PR_SPECIAL}"
+1857 = "USPECIAL CARGADOS: "
+1858 = "Mantén {270,-1}, e inmediatamente {90,PR_SPECIAL}"
+//Use 1851.
+1859 = "Mantén {270,-1}, e inmediatamente {-1,PR_JUMP}, {0,PR_ATTACK}"
+1860 = "ATAQUES EN CARRERA CARGADOS: "
+1861 = "Mantén {270,-1}, e inmediatamente {1,PR_ATTACK}"
+1862 = "UTILT CARGADOS: "
+1863 = "Mantén {270,-1}, e inmediatamente {90,PR_ATTACK}"
+1864 = "ESPECIALES CON ESPÍRITU: "
+1865 = "{0,PR_SPECIAL} de cara a un espíritu"
+1866 = "NSPECIAL CON ESPÍRITU: "
+1867 = "{-1,PR_SPECIAL} junto a un espíritu"
+1868 = "USPECIAL CON ESPÍRITU: "
+1869 = "{90,PR_SPECIAL} junto a un espíritu"
+1870 = "DSPECIAL CON ESPÍRITU: "
+1871 = "{270,PR_SPECIAL} junto a un espíritu"
+1872 = "DSPECIAL CANCELADOS: "
+1873 = "{270,PR_SPECIAL}, golpea mientras caes, luego {-1,PR_DODGE} antes de aterrizar"
+1874 = "USPECIAL CORTOS: "
+1875 = "{90,PR_SPECIAL}, e inmediatamente {270,-1}"
+1876 = "ATAQUES BLOQUEADOS CON DSTRONG: "
+1877 = "Mantén {270,PR_STRONG}"
+
+//---- POMME TUTORIAL
+1878 = "FLOTA EL TIEMPO MÁXIMO"
+1879 = "Mantén {-1,PR_JUMP} mientras caigas o pulses {270,-1}"
+1880 = "AÉREOS FLOTANDO: "
+1881 = "Con 3 ataques diferentes, golpea a Orby mientras flotas manteniendo {-1,PR_JUMP}"
+1882 = "COMBOS EN CAMPO HARMÓNICO: "
+1883 = "{270,PR_SPECIAL}, luego mantén {-1,PR_JUMP} dentro de lcampo para flotar y {-1,PR_ATTACK} para hacer combos"
+1884 = "FLOTA DOS VECES EN UN SALTO"
+1885 = "{270,PR_SPECIAL}, luego {90,PR_SPECIAL} dentro del campo para restaurar el flote"
+1886 = "GOLPEA CON LAS 4 NOTAS"
+1887 = "Mantén {-1,PR_SPECIAL}, luego {-1,PR_SPECIAL}"
+1888 = "AGARRES CON VINCE: "
+//use 1654 for the inputs here. "Hold Fspecial"
+
+//---- OLYMPIA TUTORIAL
+1889 = "FORMA UN CRISTAL"
+//use 1648 for these inputs. "Nspecial then tap Nspecial"
+1890 = "COMBOS CRISTALIZADOS: "
+1891 = "{-1,PR_SPECIAL} con la gema puesta, luego {-1,PR_ATTACK}{12,JOY}{-1,PR_STRONG}"
+//Use 1872.
+1892 = "{270,PR_SPECIAL}, recibe un golpe, luego {-1,PR_DODGE}"
+1893 = "COMBOS CON BAIR: "
+1894 = "{180,PR_ATTACK}{12,JOY}{180,PR_STRONG} en el aire, luego {-1,PR_ATTACK}"
+1895 = "AÉREOS TRAS CANCELAR FSPECIAL: "
+1896 = "Mantén {0,PR_SPECIAL}, suelta, luego pulsa {-1,PR_JUMP} dentro del campo, luego {-1,PR_ATTACK}"
+
 //----------------------------------
 // Online Chat Messages [1900-1979]
 //----------------------------------
@@ -1752,19 +1856,28 @@
 1948 = "¡Estoy que echo humo!" // Elliana Taunt
 1949 = "Sal pala dar y tomar." // Shovel Knight Taunt
 1950 = "Puedo ganarte con cualquiera." // Random Taunt
-1951 = ""
+1951 = "Extinguido." // Mollo Taunt
 
 1952 = "Culpo a mis controles." // Elliana Situational
 1953 = "Te veo pala-rrastre" // Shovel Knight Situational - mejorar chiste
 1954 = "xD Escogí al azar." // Random Situational
-1955 = ""
+1955 = "Vaya, esa fue un asco." // Mollo Situational
+
+//---- Online chat pg8 (chars 5)
+
+1956 = "UUH UUH AAA AAAAAAAAA!!!!" // Hodan Taunt
+1957 = "¡Desafinas tanto como fallas!" // Pomme Taunt
+1958 = "Pule tus habilidades." // Olympia Taunt 
+1959 = ""
+
+1960 = "Tampoco sudes la gota gorda, ¿eh?" // Hodan Situational
+1961 = "¿No me sigues el ritmo?" // Pomme Situational
+1962 = "¡Un combate brillante!" // Olympia Situational
+1963 = ""
 
 //---- Extra
 
 1999 = "¡Estoy usando\nmandos Joy-Con!"
-
-
-
 
 //-------------------------------------
 // Abyss Rune Descriptions [2000-2209]
@@ -1800,7 +1913,7 @@
 2024 = "Las burbujas acercan al oponente hacia Orcane."
 2025 = "Puedes cargar NSPECIAL para lanzarlo más lejos."
 2026 = "Puedes tener más de un charco en el suelo a la vez."
-2027 = "Algunas burbujas serán más grandes y potentes."
+2027 = "Los ataques con burbujas también lanzan burbujas explosivas."
 2028 = "Los charcos no se gastan al usar ataques sobre ellos."
 2029 = "Extiende el rango de los ataques cargados sobre un charco."
 
@@ -1811,7 +1924,7 @@
 2033 = "DSPECIAL empieza más rápido."
 2034 = "Las corrientes de aire dan un mayor impulso."
 2035 = "NSPECIAL dura mucho más."
-2036 = "DSTRONG es más fuerte y atraviesa oponentes."
+2036 = "DSPECIAL es más fuerte y atraviesa oponentes."
 2037 = "La corriente de aire se mueve hacia Wrastor."
 2038 = "Se reduce el tiempo de aterrizaje tras un ataque cargado."
 2039 = "El golpe fuerte de USPECIAL se puede mantener pulsado, aumentando el daño."
@@ -1864,7 +1977,7 @@
 2080 = "FSPECIAL y DSPECIAL tardan menos en empezar y se mueven más rápido."
 2081 = "USPECIAL golpea al oponente después al llegar al final de la cuerda."
 2082 = "FSPECIAL y DSPECIAL se pueden cancelar al golpear y restauran el salto."
-2083 = "La atadura dura el doble."
+2083 = "Las ataduras duran el doble."
 2084 = "USPECIAL te lleva hacia Lily si ningún oponente está marcado."
 2085 = "Los oponentes marcados golpean con menos fuerza."
 2086 = "Puedes tener más de una planta a la vez en escena."
@@ -2011,6 +2124,74 @@
 //Nota extra: Utilt    es Boomerang Sierra
 //Nora extra: Fspecial es Daga Propulsora
 
+//---- MOLLO
+2210 = "Puedes cargar DSPECIAL."
+2211 = "NSPECIAL absorbe la bomba en tu mano y acaba un ataque immediatamente."
+2212 = "FSPECIAL apunta a todas tus bombas activas."
+2213 = "Te quedas quieto al lanzar una bomba en el aire."
+2214 = "DSPECIAL golpea con una señal de tráfico mucho más grande."
+2215 = "Los ataques fuertes lanzan tracas de petardos extra."
+2216 = "La bomba por defecto se convierte en un petardo de dos golpes."
+2217 = "La traca se convierte en una bomba de pintura."
+2218 = "La granada aturdidora se convierte en una bomba trueno."
+2219 = "La bomba final se convierte en una ráfaga de misiles salvo."
+2220 = "Las bombas se pegan a los oponentes al lanzárselas"
+2221 = "Mollo es inmune a sus propias explosiones."
+2222 = "FSPECIAL lanza como un misíl una copia de la última bomba usada."
+2223 = "Mantener NSPECIAL te permite poner en cola varias bombas."
+2224 = "Dar 20 golpes seguidos activa una explosión que cubre toda la pantalla."
+
+//---- HODAN
+2225 = "Los espíritus de sudor cargan a Hodan y dañan al resto."
+2226 = "NSPECIAL invoca un torbellino de sudor sobre ti al acabar."
+2227 = "USPECIAL invoca un torbellino de sudor al lanzarlo."
+2228 = "Puedes tener hasta 5 espíritus de sudor a la vez."
+2229 = "NSPECIAL flota y puede ser dirigido en cualquier dirección."
+2230 = "Puedes saltar al acabar DSPECIAL."
+2231 = "Cargar incrementa tu velocidad al correr y al saltar."
+2232 = "DSTRONG cargado crea una oleada de barro."
+2233 = "Las olas de barro dan la vuelta al llegar al borde."
+2234 = "Gana carga al mantener cualquier dirección, no solo hacia abajo."
+2235 = "El primer golpe de DSPECIAL agarra oponentes."
+2236 = "USTRONG se puede usar en el aire, y actúa como un gancho."
+2237 = "Los espíritus de sudor imitan a Hodan al usar FAIR."
+2238 = "Los espíritus solo se desactivan al usar otro ataque con espíritu."
+2239 = "FSPECIAL y las gotas causan fuego, y los ataques fuertes lo consumen."
+
+//---- POMME
+2240 = "Puedes usar DSPECIAL aunque ya haya un campo harmónico."
+2241 = "USPECIAL crea un campo harmónico."
+2242 = "La gracedad es menor."
+2243 = "El campo harmónico cubre la pantalla de lado a lado."
+2244 = "Los oponentes caen más lentos en el campo harmónico."
+2245 = "Los oponentes golpeados con gritos dejan un rastro de proyectiles."
+2246 = "Las notas reducen tu lanzamiento."
+2247 = "Las notas de NSPECIAL vuelan hacia el enemigo más cercano."
+2248 = "Alternar ataques físicos y vocales los vuelve más fuertes."
+2249 = "Triplica el número de notas que puedes crear."
+2250 = "FSTRONG lanza el trípode del micrófono."
+2251 = "Pomme obtiene una nota al recibir daño."
+2252 = "Vince golpea en vez de agarrar."
+2253 = "DSPECIAL atrae a los enemigos aturdidos hacia Pomme."
+2254 = "Golpear con un grito el campo harmónico lo hace explotar."
+
+//---- OLYMPIA
+2255 = "Aterrizar mientras caes rápidamente crea pinchos de cristal."
+2256 = "Los pinchos de cristal son más altos."
+2257 = "USPECIAL puede ser cancelado a cualquier otro ataque si golpea."
+2258 = "FSPECIAL agarra a los oponentes y los lanza hacia delante."
+2259 = "Velocidad de movimiento incrementada."
+2260 = "Las gemas requieren 2 golpes para romperse."
+2261 = "Romper una gema con un ataque fuerte te otorga armadura para 1 golpe."
+2262 = "FSPECIAL deja un rastro de pinchos de cristal."
+2263 = "Dentro del campo, puedes cancelar cualquier golpe en NSPECIAL."
+2264 = "Los oponentes cristalizados rebotan en el suelo y reciben daño."
+2265 = "Golpear a un oponente con el proyectil de NSPECIAL lo cristaliza."
+2266 = "Todos los ataques fuertes cristalizan."
+2267 = "Los ataques fuertes generan gemas."
+2268 = "Los oponentes aturdidos no pueden salir del campo de la gema."
+2269 = "NSPECIAL te teletransporta al oponente cristalizado más cercano."
+
 //--------------------
 
 //---- Character Ability Descriptions [2300-2341]
@@ -2070,6 +2251,22 @@
 2340 = "Mantener el botón de ataque al golpear con DAIR permitirá a Shovel Knight seguir atacando y rebotando sobre enemigos."
 2341 = "Si Shovel Knight carga del todo su USTRONG, lanzará hacia el cielo una roca enorme llena de gemas."
 
+2342 = "Mollo dispone de una gran variedad de bombas gracias a su NSPECIAL. Cuidado, las bombas también pueden dañarle a él mismo." 
+2343 = "Mientras sujetes una bomba, puedes lanzarla con un ataque fuerte, o soltarla con una esquiva."
+2344 = "Puedes golpear las bombas con cualquier ataque para moverlas, o explotarlas con un especial."
+
+2345 = "Puedes mantener hacia abajo para generar una carga que mejora ciertos movimientos de Hodan."
+2346 = "El especial lateral de Hodan lanza un espíritu de sudor, el cual puedes reusar con otros ataques especiales."
+2347 = "El DSPECIAL de Hodan entierra a los oponentes en barro, obligándoles a saltar una vez se desentierren."
+
+2348 = "Mantener el botón de salto permite a Pomme flotar en el aire, y por tanto usar especiales y aéreos con facilidad."
+2349 = "El DSPECIAL de Pomme crea un campo harmónico, mejorando su habilidad para flotar y algunos movimientos sonoros."
+2350 = "Con FSPECIAL, Pomme llama a su guardaespaldas, quien agarra a los oponentes y bloquea proyectiles."
+
+2351 = "Olympia puede atrapar a oponentes en un cristal usando NSPECIAL y DSPECIAL, el cual se rompe al cabo de un rato."
+2352 = "Con su DSTRONG, Olympia puede cubrir todo el suelo con pinchos de cristal."
+2353 = "Al usar DSPECIAL, Olympia aguantará cualquier golpe una vez, permitiéndole responder con un ataque o simplemente esquivar."
+
 //---- Stage Names [2400-2459]
 2400 = "Bloqueado"
 2401 = "Al Azar"
@@ -2101,36 +2298,13 @@
 2427 = "Ring RoA"
 2428 = ""
 2429 = "Pista de Tetherball"
-2430 = "@2400"
-2431 = "@2401"
-2432 = "@2402"
-2433 = "@2403"
-2434 = "@2404"
-2435 = "@2405"
-2436 = "@2406"
-2437 = "@2407"
-2438 = "@2408"
-2439 = "@2409"
-2440 = "@2410"
-2441 = "@2411"
-2442 = "@2412"
-2443 = "@2413"
-2444 = "@2414"
-2445 = "@2415"
-2446 = "@2416"
-2447 = "@2417"
-2448 = "@2418"
-2449 = "@2419"
-2450 = "@2420"
-2451 = "@2421"
-2452 = "@2422"
-2453 = "@2423"
-2454 = "@2424"
-2455 = "@2425"
-2456 = "@2426"
-2457 = "@2427"
-2458 = "@2428"
-2459 = "@2429"
+2430 = ""
+2431 = ""
+2432 = "Raíles Ardientes"
+2433 = "Termas Ocultas"
+2434 = "Nueva Villajuelos"
+2435 = "Oasis Cristalino"
+2436 = "Arboleda Diamante"
 
 //---- CSS Options [2500-2549]
 2500 = "¿RESTABLECER LOS CONTROLES DEL TECLADO?"
@@ -2220,6 +2394,7 @@
 2575 = "Maestro"
 
 //---- Online Ranked Reward Names
+2579 = "una recompensa de meta"
 2580 = "Emoticono de Plata"
 2581 = "Aspecto Dorado"
 2582 = "Icono de Platino"
@@ -2345,6 +2520,17 @@
 //2699 = ""
 //2699 = ""
 
+//-------------------------------
+// Rollback Settings [2690-2699]
+//-------------------------------
+
+2690 = "CONF. ROLLBACK" //2780
+2691 = "ROLLBACK AUTO" //2781 unused?
+2692 = "RETARDO INPUTS" //2782 unused?
+2693 = "ROLLBACK MÁX." //2783 unused?
+2694 = "RETARDO AUTO"
+2695 = "RETARDO EXTRA"
+
 //------------------------
 // Staff Roll [2700-2749]
 //------------------------
@@ -2380,7 +2566,7 @@
 2743 = "Localización Rusa"
 2744 = "¡GRACIAS POR JUGAR!"
 2745 = "Director de e-Sports"
-2746 = ""
+2746 = "Marketing"
 2747 = ""
 2748 = ""
 2749 = ""
@@ -2484,6 +2670,10 @@
 2828 = "ESCENARIO"
 2829 = "PALETA DE `1"
 
+2830 = "ORDENAR"
+2831 = "¿Borrar todas las categorías y reordenar toda la lista?" // for characters
+2832 = "¿Quieres ordenar toda la lista?" // for everything else
+
 //--------------------------
 // Stage Editor [2900-2999]
 //--------------------------
@@ -2507,8 +2697,8 @@
 2914 = "@2909"
 2915 = "@2910"
 2916 = "@2911"
-2917 = "HORIZONTAL"
-2918 = "VERTICAL"
+2917 = "REP. HOR."
+2918 = "REP. VER."
 2919 = "ANCHURA"
 2920 = "ALTURA"
 2921 = "LÍMITE LATERAL"
@@ -3357,7 +3547,111 @@
 3729 = "En vez de seguir con un plan que claramente no funciona, intenta otra cosa."
 3730 = "Si te están haciendo combos fácilmente, intenta no aguantar la palanca hacia el enemigo todo el rato."
 
+//---- MOLLO TUTORIAL
+3731 = "¡Bienvenido al tutorial de Mollo!"
+3732 = "Mollo es un personaje arriesgado pero versátil que se vale de peligrosos explosivos para hacerse con la victoria."
+3733 = "Gran parte de su arsenal se basa en sus bombas. Pulsar NSPECIAL hará que Mollo saque una bomba. Mantenerlo te permite elegir qué tipo de bomba sacar."
+3734 = "Tras encender una bomba, puedes lanzarla con un ataque normal o fuerte, y soltarla usando una esquiva o bloqueo. También puedes ajustar el ángulo en que la lanzas, de la misma forma en la que harías DI."
+3735 = "Prueba a golpearme con cualquier bomba. Ve con cuidado, ¡que te puedes hacer daño a ti mismo!"
+3736 = "¡Bien!"
+3737 = "También puedes mantener NSPECIAL para elegir el siguiente tipo de bomba:\nBásica (Arriba), Traca (Izq.), Aturdidora (Der.), y Bomba Final (Abajo).\n¡Cada una tiene una explosión y uso diferente!"
+3738 = "¡Intenta golpearme una vez con cada una! ¡Y otra vez, intenta no hacerte daño! Especialmente con la bomba final..."
+3739 = "¡Genial!"
+3740 = "Quizás has visto que las bombas empiezan a brillar al cabo de unos segundos. Esto significa que la bomba es inestable, y explotará al hacer contacto con el suelo, oponentes... o si te golpean mientras la sostienes."
+3741 = "El resto de especiales de Mollo están bien por sí solos, ¡pero usarlos con una bomba en la mano les da efectos adicionales!"
+3742 = "Su FSPECIAL dispara una bengala que detona cualquier bomba en el radio de detonación. Puedes apuntar la bengala libremente mientras mantengas pulsado el botón para acertar a bombas o enemigos despistados."
+3743 = "El siguiente, DSPECIAL, engancha una bomba en la punta del bate y la detona justo al golpear."
+3744 = "Y por último, USPECIAL lanza la bomba en lo más alto del salto, volviéndola inestable y lanzándo a Mollo mucho más alto."
+3745 = "Adelante, prueba a usar cada especial mientras sujetas una bomba."
+3746 = "¡Alucinante!"
+3747 = "Otra forma de interactuar con tus bombas es golpearlas con otros ataques. Puedes hacerlo para variar la trayectoria y pillar desprevenidos a los oponentes."
+3748 = "Un caso particular es el ataque en carrera; más que simplemente golpearla, ¡Mollo agarrará la bomba y la lanzará con fuerza hacia delante!"
+3749 = "Inténtalo. Suelta una bomba en el suelo y recógela con el ataque en carrera."
+3750 = "¡Fantástico!"
+3751 = "Ya basta por hoy con las interacciones con las bombas, veamos ahora el resto de ataques."
+3752 = "FAIR es bastante poderoso, pero mantener el botón lo hará aún más fuerte mientras caigas. Verás un brillo en su puño cuando se cargue del todo."
+3753 = "Intenta golpearme con un FAIR totalmente cargado."
+3754 = "¡Muy bien!"
+3755 = "USTONG y FSTONG son ataques bastante sencillos, pero el DSTRONG de Mollo es una bomba de humo de la cual puedes escapar rodando."
+3756 = "Puedes deslizarte a izquierda o a derecha durante el final del ataque simplemente moviendo la palanca en esa dirección. Te puede servir tanto para escapar como para intentar seguir la dirección del rival."
+3757 = "¡Inténtalo! Golpéame con DSTRONG, y luego ve a por mi deslizándote y enlaza con cualquier otro ataque antes de que se me acabe el aturdimiento."
+3758 = "¡Guay!"
+3759 = "¡Esto finaliza el tutorial de Mollo!"
 
+//---- HODAN TUTORIAL
+3760 = "¡Bienvenido al tutorial de Hodan!"
+3761 = "Hodan combina el agua con el resto de elementos para darles una lección de balance y harmonía a sus oponentes."
+3762 = "Su estado natural encapsula el agua y el fuego, los cuales usa para acumular poder y así mejorar sus ataques con...uh, sudor."
+3763 = "Si mantienes la palanca hacia abajo, irás generando vapor. Usar ciertos movimientos con vapor acumulado los hará mucho más fuertes."
+3764 = "La mayoría de ataques básicos o especiales hacia arriba o hacia delante se aprovechan de esto. Principalmente:\nUTILT, FAIR, USPECIAL, FSPECIAL y el ataque en carrera."
+3765 = "También lo hace su DSTRONG, pero ese ataque tiene ciertas propiedades especiales, ya lo veremos más tarde."
+3766 = "Intenta golpearme con todos sus ataques cargados para empezar."
+3767 = "¡Bien!"
+3768 = "Quizás te hayas dado cuenta de algo raro con FSPECIAL: ¡Ha dejado una nube de vapor con su forma! Estas nubes se llaman espíritus de sudor."
+3769 = "Hodan puede utilizar estos espíritus para mejorar todos sus especiales, incluso si es otro FSPECIAL. Harmonía con uno miso, supongo. Siempre positivo, nunca negativo."
+3770 = "¡Intenta golpearme con todos los especiales absorbiendo un espíritu!"
+3771 = "¡Genial!"
+3772 = "Hablando de especiales, puedes cancelar DSPECIAL con el botón de esquivar."
+3773 = "Normalmente, cancelarlo te deja en caída libre, pero si lo cancelas después de golpear a alguien mientras caes, podrás seguir moviéndote libremente, cosa que combinada con lo rápido que acaba, permite hacer grandes combos."
+3774 = "Intenta golpearme con DSPECIAL, y luego cancélalo antes de aterrizar."
+3775 = "¡Excelente!"
+3776 = "Puedes acortar la trayectoria de USPECIAL si pulsas hacia abajo durante el inicio. Cualquier diagonal hacia abajo también sirve. Puedes usarlo para estar menos tiempo en caída libre, o simplemente por variar tus acciones."
+3777 = "Va, intenta hacer unos cuantos USPECIAL cortos."
+3778 = "¡Genial!"
+3779 = "Volvamos con DSTRONG. Efectivamente, la forma de cargar el ataque es mantener hacia abajo, ¡pero la versión cargada además bloquea ataques! ¡Si lo haces, el golpe será mucho más poderoso!"
+3780 = "Inténtalo. Bloquea mis ataques con un DSTRONG cargado."
+3781 = "¡Perfecto!"
+3782 = "¡Esto finaliza el tutorial de Hodan!"
+
+//---- POMME TUTORIAL
+3783 = "¡Bienvenido al tutorial de Pomme!"
+3784 = "Pomme manipula las ondas a su antojo y puede flotar sin problemas por el aire para mantener la presión sobre sus enemigos."
+3785 = "Su habilidad principal es flotar. Si mantienes el botón de salto mientras caes, Pomme flotará en el aire un rato. Puedes hacerlo una sola vez antes de tocar el suelo y aún así poder seguir atacando o esquivando."
+3786 = "Otra forma de flotar es pulsar hacia abajo mientras asciendes. Puedes hacerlo incluso durante la animación del salto, lo que te permite flotar a ras de suelo."
+3787 = "Prueba a flotar durante un rato. Después, haz unos cuantos ataques aéreos mientras flotas."
+3788 = "¡Guay!"
+3789 = "También puedes mejorar su capacidad para flotar con DSPECIAL, el cual crea un campo harmónico."
+3790 = "Dentro del campo, también puedes flotar verticalmente. Puedes aprovechar esta mobilidad mejorada para conectar más ataques en el aire fácilmente."
+3791 = "Intenta flotar en el campo de DSPECIAL y golpearme con al menos dos aéreos seguidos."
+3792 = "¡Brillante!"
+3793 = "El campo harmónico también ayuda con la recuperación. Usar USPECIAL dentro del campo no solo no deja a Pomme en caída libre, sino que además restaura la capacidad de flotar."
+3794 = "Inténtalo. Usa USPECIAL después de DSPECIAL para flotar dos veces en el aire sin tocar el suelo."
+3795 = "¡Genial!\nToma nota de que la segunda vez que uses USPECIAL será mucho más débil y siempre te dejará en caída libre."
+3796 = "Al usar NSPECIAL, Pomme sostendrá una nota que pone en cola varios proyectiles."
+3797 = "Cuánto más lo mantengas, más proyectiles generará, hasta un máximo de 4."
+3798 = "Si vuelves a usar NSPECIAL, Pomme lanzará todas las notas una a una. Mientras las lanza, puedes usar otros ataques."
+3799 = "Intenta golpearme con las 4 notas de NSPECIAL."
+3800 = "¡Muy bien!"
+3801 = "Con FSPECIAL, Pomme llama a su guardaespaldas para agarrar a los oponentes. (¡Su nombre es Vince!)"
+3802 = "Su uso ofensivo es obvio, ¡pero también bloquea los proyectiles que se encuentra! Mantener el botón hará que vaya más lejos, por lo que puedes usarlo para lidiar con oponentes lejanos."
+3803 = "Prueba a usar FSPECIAL para bloquear mis proyectiles y para agarrarme."
+3804 = "¡Fantástico!"
+3805 = "¡Esto finaliza el tutorial de Pomme!"
+
+//---- OLYMPIA TUTORIAL
+3806 = "¡Bienvenido al tutorial de Olympia!"
+3807 = "Olympia posee el poder de los cristales, los cuales le permiten acumular energía y soltarla en ráfagas de velocidad y fuerza."
+3808 = "Su NSPECIAL (el cual Olympia apoda 'Diamante Brillante') es su movimiento de mayor rango. Lanza una trozo de una gema que genera un cristal más grande si golpea."
+3809 = "Otra forma de crear el cristal grande es pulsar otra vez NSPECIAL mientras el proyectil siga en el campo."
+3810 = "Intenta golpearme con NSPECIAL, o simplemente genera el cristal tú mismo."
+3811 = "¡Genial!"
+3812 = "Mientras el cristal siga ahí, volver a pulsar NSPECIAL lo romperá, atrapando a todos los oponentes dentro del campo de luz."
+3813 = "O si quieres ser más directo, también puedes atraparlos si les golpeas con DSPECIAL."
+3814 = "Los oponentes cristalizados caerán al suelo, y el cristal se destruirá al tocar tierra o al cabo de un rato. Puedes golpearlo para mantenerlos atrapados un poco más."
+3815 = "Intenta cristalizarme con NSPECIAL o DSPECIAL, y golpéame antes de que escape."
+3816 = "¡Brillante!"
+3817 = "El DSPECIAL de Olympia se llama 'Foco Esmeralda'. Le otorga armadura, y puedes cancelarlo si esquivas antes de lanzar el ataque o de que te golpeen 2 veces."
+3818 = "Intenta escapar de mis ataques esquivando después de llevarte el primer golpe."
+3819 = "¡Alucinante!"
+3820 = "El BAIR de Olympia tiene la peculiaridad de darle la vuelta al acabar, lo que normalmente le deja de cara al oponente."
+3821 = "Esto te permite continuar el combo con otro aéreo más fuerte dependiendo de dónde lo lances."
+3822 = "Intenta golpearme con BAIR seguido de cualquier otro ataque. Dar el BAIR mientras asciendes probablemente te ponga las cosas más fáciles."
+3823 = "¡Bien!"
+3824 = "El FSPECIAL de Olympia, apodado 'Gancho Circonia', acumula energía y la libera en una gran ráfaga de velocidad en línea recta. Cuanto más lo cargues, más lejos llegarás."
+3825 = "Ya de por sí es bastante útil, pero pasar por dentro del campo de la gema te permite cancelarlo con un salto, conservando toda la inercia que lleves para pillar desprevenidos a los rivales."
+3826 = "¡Inténtalo! Cancela un FSPECIAL con un salto y pégame con un aéreo antes de que pueda responder."
+3827 = "¡Alucinante!"
+3828 = "¡Esto finaliza el tutorial de Olympia!"
 
 //------------------------------
 // Text Entry Popup [3900-3909]
@@ -3378,12 +3672,11 @@
 3912 = "CTRL+C"
 3913 = "CTRL+V"
 
-
 //-------------------------
 // Buddy Names [4000-4049]
 //-------------------------
 
-4000 = "@12"
+4000 = "Ninguna"
 4001 = "Cachorro Frostbear"
 4002 = "Sunny"
 4003 = "Kraggín"
@@ -3402,13 +3695,12 @@
 4016 = "Melby"
 4017 = "Loxobot"
 4018 = "César"
-4019 = "Buddy19"
+4019 = "Cabra GoTE"
 4020 = "Buddy20"
 
 //------------------------------------
 // Workshop Error Messages [4049-4199]
 //------------------------------------
-
 
 //---- STEAM API Errors (https://partner.steamgames.com/doc/api/steam_api#EResult)
 4049 = "- Error de la Steam Workshop -" // Header qualifier before the error message
@@ -3560,7 +3852,7 @@
 // Abyss Mode Options
 4197 = "@4"
 4198 = "VS"
-4199 = "INFINITO"
+4199 = "INF"
 
 //-----------------------------
 // Nintendo Switch [4220-4239]
@@ -3591,4 +3883,49 @@
 4314 = "JUGADORES"
 4315 = "NO SE ENCONTRARON SALAS."
 4316 = "FILTRO: PÚBLICO"
-4317 = "FILTRO: PRIVADO"
+4317 = "FILTRO: AMIGOS"
+
+//-------------------------------------------
+// Workshop titles [4346-4349]
+//-------------------------------------------
+
+4346 = "La Furia Ardiente"
+4347 = "El Sabio de las Termas"
+4348 = "La cantante Superestrella"
+4349 = "El Puño de Amatista"
+
+//-------------------------------------------
+// Workshop custom colors [4350-4387]
+//-------------------------------------------
+
+4350 = "Cuerpo" //mol
+4351 = "Pelaje"
+4352 = "Ropa"
+4353 = "Alas"
+4354 = "Bombas"
+4355 = "Chispas"
+4356 = "Ojos"
+
+4360 = "Vapor" //hod
+4361 = "Cuerpo"
+4362 = "Manos"
+4363 = "Toalla"
+4364 = "Raya"
+4365 = "Pelaje 1"
+4366 = "Pelaje 2"
+
+4370 = "Cuerpo" //pom
+4371 = "Chaqueta"
+4372 = "Ropa"
+4373 = "Ojos"
+4374 = "Pelo"
+4375 = "Música"
+4376 = ""
+
+4380 = "Cristal Der." //oly
+4381 = "Cristal Izq."
+4382 = "Cuerpo"
+4383 = "Cola"
+4384 = "Pantalones"
+4385 = "Brillo"
+4386 = "Ojos"
