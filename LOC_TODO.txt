@@ -1,6 +1,5 @@
 PREGUNTAR:
 
- - Que hacer con el mundo del Éter
 
 
 
@@ -28,7 +27,7 @@ NUEVO/EDITADO:
 
 Misc
 
- - Retroceso (knockback) a algo distinto. ¿Lanzamiento?
+
 
 
 
@@ -53,7 +52,7 @@ Menús
 - Tutorial
 
 - Historia
- - Más inconsistencias con la descripción de la final - Todo el aether¿?
+
 
 - Opciones
 
@@ -81,7 +80,6 @@ Tutoriales
 
 
 - Ofensiva intermedia
- - parry en singular? No se siente correcto - aun asi, esto hay que mirarlo con lo de bloquear/parry
 
 - Movimiento Avanzado
 
@@ -90,7 +88,7 @@ Tutoriales
 
 
 - Ataque avanzado- Recuerda que no puedes entrar en la animación de
- - HAY ALGO SIN TRADUCIR LMAO - Si tu oponente empieza a reaccionar a casi todo lo que haces, significa que te estás volviendo predecible.
+
  - TODO EL HITFALL
 
 
@@ -165,8 +163,6 @@ Tutoriales
  - Armaduras en la tienda. La más barata (mayuscula needed)
  - Cuanto más mantengas ... (daga) sobra tilde en cuanto
  - Mientras estés en el suelo, Shovel Knight puede cancelar el movimiento si salta, pero solo si aún no ha golpeado a nadie.
- - ¡ESTO FINALIZA EL TUTORIAL DE SHOVEL KNIGHT!
+
  
- 
- - Todo lo que pertoque a los 4 nuevos, aka tutoriales y runas
- - revisar todas las runas por si acaso
+
