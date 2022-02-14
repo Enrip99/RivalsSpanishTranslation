@@ -522,7 +522,7 @@
 
 //---- Solo Modes
 478 = "Historia"
-479 = "Desenreda los misteriosos conflictos del mundo del Éter."
+479 = "Desenreda los misteriosos conflictos del mundo del Aether."
 480 = "Abismo"
 481 = "Derrota criaturas sombrías y mejora tus luchadores en el Abismo."
 482 = "Práctica"
@@ -803,7 +803,7 @@
 737 = "AGACHARSE"
 738 = "SALTAR"
 739 = "CORRER"
-740 = "PARRY"
+740 = "BLOQUEAR"
 741 = "RODAR"
 742 = "LUCHAR"
 743 = "HUIR"
@@ -962,7 +962,7 @@
 913 = "Autodest."
 914 = "Daño infligido"
 915 = "Daño recibido"
-916 = "Parrys"
+916 = "Bloqueos"
 917 = "Combo máximo"
 918 = "Precisión"
 919 = "MANTÉN PARA SALIR"
@@ -1080,7 +1080,7 @@
 1021 = "Usando sus misteriosos poderes acuáticos logra infiltrarse en la Armada usando un grifo sin vigilar. Orcane busca por toda la nave hasta encontrar los bienes robados de la Federación."
 //---- 4
 1022 = "De repente, Orcane se encuentra un escenario inesperado. Avista al comandante de la Armada vendiendo todos los objetos robados a la Federación por un simple pergamino."
-1023 = "Pero este no es un pergamino cualquiera. Es un extraño mapa cambiante que muestra todos los puntos débiles de las defensas de todas las civilizaciones en la superficie del Éter."
+1023 = "Pero este no es un pergamino cualquiera. Es un extraño mapa cambiante que muestra todos los puntos débiles de las defensas de todas las civilizaciones en la superficie del Aether."
 //---- 5
 1024 = "Distraído por su descubrimiento, Orcane es encontrado por Wrastor y Bradshaw. Las dos aves se sorprenden de encontrar a la criatura dentro de la Armada."
 1025 = "Wrastor, tan exaltado como siempre, aparta a su compañero, dispuesto a retar a la criatura a un combate."
@@ -1091,7 +1091,7 @@
 
 
 //---- WRASTOR
-1029 = "Wrastor y Bradshaw son la mejor pareja de toda la Armada Aérea, una milicia de élite que surca los cielos de todo el continente del Éter."
+1029 = "Wrastor y Bradshaw son la mejor pareja de toda la Armada Aérea, una milicia de élite que surca los cielos de todo el continente del Aether."
 1030 = "La Armada Aérea saquea todo tipo de mercaderes y transportistas y ataca puestos de vigilancia del Imperio del Fuego. Wrastor tiene fama de romper formación solamente por la gloria."
 1031 = "Wrastor es un volador brillante pero impredecible, mientras que Bradshaw es cauteloso y firme. Han sido compañeros desde sus primeros días en la academia."
 //---- 2
@@ -1162,7 +1162,7 @@
 //---- 3
 1072 = "El origen de la enfermedad parece proceder de más allá del Muro Rocoso. Maypul acepta que es su misión lidiar con ello. Antes de marchar, deja a Lily a cargo de cuidar a su hermana pequeña, Mayreed."
 1073 = "Maypul le entrega a mayreed una carta con todo lo que conoce sobre la enfermedad y sus orígenes, y le encomienda la misión de compartir sus contenidos con cualquier Morador que quiera leerla."
-1074 = "Mayreed, preocupada de lo que le pueda pasar a su hermana, le ruega que se quede, pero ambas hermanas sienten el peligro que se acecha. Todo el mundo del Éter podría estar en peligro..."
+1074 = "Mayreed, preocupada de lo que le pueda pasar a su hermana, le ruega que se quede, pero ambas hermanas sienten el peligro que se acecha. Todo el mundo del Aether podría estar en peligro..."
 //---- 4
 1075 = "Maypul recorre todo el continente en busca de rastros, siguiendo la enfermedad de la tierra allá donde va. Cada día que pasa fuera del Bosque, se siente más y más débil."
 1076 = "Varias lunas tras su partida, encuentra un enclave bajo asedio. Al acercarse a investigar, descubre que el Clan del Humo está siendo atacado por el Ejército del Fuego."
@@ -1172,7 +1172,7 @@
 1079 = "Ambos saltan a la carga..."
 //---- 6
 1080 = "Maypul exige saber qué rol juega Forsburn en la infección de las sombras. Sorprendido, Forsburn le habla sobre su propio encuentro con una extraña sombra púrpura y la desaparición de su hermano."
-1081 = "Maypul y Forsburn concluyen que el peligro proviene del oeste. Ambos se ponen en camino para encontrar el origen de esta amenaza al Éter."
+1081 = "Maypul y Forsburn concluyen que el peligro proviene del oeste. Ambos se ponen en camino para encontrar el origen de esta amenaza al Aether."
 
 
 //---- EPILOGUE
@@ -1180,18 +1180,18 @@
 1083 = "Nada más llegar Maypul y Forsburn, encuentran a Zetterburn, asomado a la orilla del agua. Con su orgullo herido, aparta la mirada del hermano del que dudó. Orcane llega poco después."
 1084 = "Kragg es el siguiente en llegar, reuniendo a Maypul y a su querida planta compañera Lily. Wrastor llega justo después, quien había estado siguiendo a Kragg buscando venganza por la herida de Bradshaw."
 1085 = "De repente, un temblor sacude la tierra. El agua empieza a convertirse en un aceite sombrío. Todo el mar se vuelve púrpura y una enorme roca emerge del furioso remolino."
-1086 = "Esta antigua y bizarra estructura pétrea parece una especie de puerta. A través del portal, los guerreros rivales consiguen ver una especie de abismo que se extiende hasta las profundidades del Éter."
+1086 = "Esta antigua y bizarra estructura pétrea parece una especie de puerta. A través del portal, los guerreros rivales consiguen ver una especie de abismo que se extiende hasta las profundidades del Aether."
 1087 = "¡Esta debe de ser la fuente de la enfermedad del bosque y de los impostores sombríos! Nuestros guerreros dejan sus rivalidades de lado por un momento. Los seis saben exactamente qué deben hacer."
 //---- 2
-1088 = "Las criaturas de las sombras han sido aniquiladas. Los ya-no-tan-rivales se reúnen para hacer las paces por sus pasadas batallas. Sin embargo, las amenazas al Éter quizás aún persisten..."
-1089 = "El misterio de aquellas sombras persiste. ¿Qué buscaban realmente? ¿Y por qué buscaban el caos entre las civilizaciones del Éter? ¿Y volverán algún día...?"
+1088 = "Las criaturas de las sombras han sido aniquiladas. Los ya-no-tan-rivales se reúnen para hacer las paces por sus pasadas batallas. Sin embargo, las amenazas al Aether quizás aún persisten..."
+1089 = "El misterio de aquellas sombras persiste. ¿Qué buscaban realmente? ¿Y por qué buscaban el caos entre las civilizaciones del Aether? ¿Y volverán algún día...?"
 
 
 
 //---- MAP DESCRIPTIONS
 1290 = "LA BATALLA FINAL EN LAS PUERTAS ETÉREAS: Los seis rivales unen fuerzas para luchar contra la misteriosa amenaza que acecha todo el mundo."
 1291 = "EL VIAJE DE KRAGG A LA CABAÑA DEL ÁRBOL: El fiel Constructor rompe su juramento para luchar contra un enemigo mayor."
-1292 = "EL VIAJE DE MAYPUL A LA GUARIDA ARDIENTE: Una misteriosa plaga lleva a la Moradora de los Árboles en un viaje al origen del sufrimiento del Éter."
+1292 = "EL VIAJE DE MAYPUL A LA GUARIDA ARDIENTE: Una misteriosa plaga lleva a la Moradora de los Árboles en un viaje al origen del sufrimiento del Aether."
 1293 = "EL ENCUENTRO DE WRASTOR EN EL MURO ROCOSO: La estrella de la Armada Aérea se encuentra con un extraño enemigo mientras patrulla."
 1294 = "EL RETORNO DE FORSBURN A LA CAPITAL DEL FUEGO: El hijo desheredado vuelve a casa a ayudar al hermano que le abandonó."
 1295 = "LA INFILTRACIÓN DE ORCANE EN LA ARMADA AÉREA: El pícaro ser de agua se cuela en las líneas enemigas para ayudar a su familia adoptiva."
@@ -1329,8 +1329,8 @@
 1505 = "{1,-1} luego (tras el sprint inicial) {181,-1}, inmediatamente {-1,PR_JUMP}, inmediatamente mantén {0,-1} y luego {0,PR_ATTACK}{12,JOY}{-1,PR_STRONG}"
 1506 = "DSPECIALS INVERSOS: "
 1507 = "{270,PR_SPECIAL} e inmediatamente {180,-1}"
-1508 = "PARRYS ENGAÑADOS: "
-1509 = "Acércate al oponente, luego golpéale tras el parry"
+1508 = "BLOQUEOS ENGAÑADOS: "
+1509 = "Acércate al oponente, luego golpéale tras su bloqueo"
 1510 = "BAIR HITFALLS: "
 1511 = "{-1,PR_JUMP} luego {90,PR_ATTACK}{12,JOY}{-1,PR_STRONG} y luego {271,-1} durante la pausa"
 
@@ -1345,7 +1345,7 @@
 1519 = "Mantén la palanca a 90 grados hacia abajo respecto al ángulo de lanzamiento, luego {-1,PR_DODGE} al tocar la pared."
 
 //---- BEGINNER DEFENSE TUTORIAL
-1520 = "PARRYS: "
+1520 = "BLOQUEOS: "
 1521 = "REFLEJOS: "
 1522 = "RUEDOS: "
 1523 = "ESQUIVAS AÉREAS: "
@@ -2291,7 +2291,7 @@
 2420 = "Villajuelos" //Villajuelos
 2421 = "Charca Truchanzana"
 2422 = "Sala de Práctica"
-2423 = "Instituto Éter"
+2423 = "Instituto Aether"
 2424 = "Fortaleza del Orgullo"
 2425 = "Puertas Heladas"
 2426 = "Cuadrícula tutorial"
@@ -2786,11 +2786,11 @@
 
 //---- BEGINNER DEFENSE TUTORIAL
 3013 = "¡Bienvenido al tutorial de defensa básica! En esta lección aprenderás lo esencial para defenderte por tu propia cuenta de ataques enemigos."
-3014 = "Lo primero que vamos a ver es el bloqueo, o 'Parry'. Un parry se hace pulsando el botón de esquivar estando en el suelo, sin pulsar ninguna dirección en la palanca de control."
-3015 = "Si consigues 'hacer parry' a un ataque enemigo el oponente quedará aturdido un corto tiempo, dejándoles vulnerables a cualquier ataque."
-3016 = "Sin embargo, los parrys no son instantáneos. Se activan 2 fotogramas después de pulsar el botón.\n(Nota: en este juego, un segundo equivale a 60 fotogramas)"
-3017 = "Vamos a probarlo.\nHaz parry a mi ataque 3 veces seguidas."
-3018 = "También puedes usar el parry para devolver proyectiles."
+3014 = "Lo primero que vamos a ver es el bloqueo, o 'Parry'. Un bloqueo se hace pulsando el botón de esquivar estando en el suelo, sin pulsar ninguna dirección en la palanca de control."
+3015 = "Si consigues bloquear un ataque enemigo el oponente quedará aturdido un corto tiempo, dejándoles vulnerables a cualquier ataque."
+3016 = "Sin embargo, los bloqueos no son instantáneos. Se activan 2 fotogramas después de pulsar el botón.\n(Nota: en este juego, un segundo equivale a 60 fotogramas)"
+3017 = "Vamos a probarlo.\nBloquea mi ataque 3 veces seguidas."
+3018 = "También puedes usar el bloqueo para devolver proyectiles."
 3019 = "Intenta reflejar 3 proyectiles seguidos."
 3020 = "Siguiente, es hora de rodar."
 3021 = "Si mantienes alguna dirección al pulsar el botón de esquivar, rodarás en vez de bloquear."
@@ -2924,10 +2924,10 @@
 3141 = "Usar ataques contundentes que golpeen hacia abajo u horizontalmente suelen ser las mejores opciones, ya que la mayoría de personajes tienen problemas para volver desde las profundidades."
 3142 = "Ten en cuenta que el rival también podría intentar usar su walljump para recuperarse si le golpeas demasiado cerca de la pared, así que alejarlos lo máximo posible del muro puede ser otra buena opción."
 3143 = "¡Pruébalo!. Hazle un edgeguard a este Zetterburn 3 veces. Asegúrate de que nunca llega a tocar tierra."
-3144 = "¡Bien! La siguiente lección te enseñará a lidiar con los parry enemigos."
+3144 = "¡Bien! La siguiente lección te enseñará a lidiar con los bloqueos enemigos."
 3145 = "Como sabes, si un oponente bloquea tu ataque, quedarás aturdido. La única excepción a esta regla es el combo de jabs, excluyendo el último golpe."
-3146 = "Si un oponente hace parry a uno de los dos primeros golpes de tu jab combo, obtendrán invencibilidad, pero no serás aturdido. Esto convierte el jab en una forma segura de presionar a tu oponente."
-3147 = "Prueba a golpearme con un jab y salir corriendo antes de que contraataque después de que intente hacerte parry. Asegúrate de no dar con el tercer golpe del combo."
+3146 = "Si un oponente bloquea uno de los dos primeros golpes de tu jab combo, obtendrán invencibilidad, pero no serás aturdido. Esto convierte el jab en una forma segura de presionar a tu oponente."
+3147 = "Prueba a golpearme con un jab y salir corriendo antes de que contraataque después de que intente bloquearte. Asegúrate de no dar con el tercer golpe del combo."
 3148 = "Vamos a sumar los tilts a la ecuación."
 3149 = "Después de un jab, puedes seguir inmediatamente con un tilt en vez de seguir con otro jab."
 3150 = "Esto te permite asegurar que golpeas con el tilt y también te permite variar los movimientos con los que inicias los combos."
@@ -3007,12 +3007,12 @@
 3215 = "Al realizar un ataque especial, puedes invertir la dirección simplemente pulsando la dirección opuesta justo después de darle al botón especial."
 3216 = "Para probarlo, intenta golpearme con un DSPECIAL inverso."
 3217 = "¡Bien!"
-3218 = "Ahora vas a aprender a contrarrestar el parry.\nTodo lo que necesitas es paciencia."
+3218 = "Ahora vas a aprender a contrarrestar bloqueos.\nTodo lo que necesitas es paciencia."
 3219 = "Si tu oponente empieza a reaccionar a casi todo lo que haces, significa que te estás volviendo predecible."
 3220 = "Si eso pasa, puedes desconcertar a tu oponente haciendo ver que vas a atacar, pero retrasando un poco tu ofensiva."
 3221 = "Esto hará que intenten bloquear antes de tiempo y serás tú quien pueda castigar ese error."
 3222 = "Puedes hacer algo similar fallando tus ataques a propósito."
-3223 = "¡Probémoslo! En cuanto te acerques a mí, intentaré hacer parry.\nRetrasa tu ofensiva y castígame al fallar el parry."
+3223 = "¡Probémoslo! En cuanto te acerques a mí, intentaré bloquearte.\nRetrasa tu ofensiva y castígame al fallar el bloqueo."
 3224 = "¡Fantástico!"
 3225 = "Si tu oponente se da cuenta y empieza a pillar tus ataques atrasados, puedes alternar entre ataques normales y atrasados para confundirle otra vez."
 3226 = "Y si realmente quieres optimizar tus combos al máximo, puedes incorporar en ellos el 'hitfalling'."
@@ -3533,7 +3533,7 @@
 3713 = "Cancelarlo tampoco es instantáneo, por lo que tendrás que ajustarte a la inercia que lleves. Si mantienes la palanca hacia atrás al cancelarlo con un salto, Shovel Knight se dará la vuelta."
 3714 = "Intenta cancelar FSPECIAL con un salto y golpearme con un NAIR 3 veces."
 3715 = "¡Guay!"
-3716 = "¡Esto finaliza el tutorial de Shovel Knigh!"
+3716 = "¡Esto finaliza el tutorial de Shovel Knight!"
 
 //---- EXTRA TUTORIAL
 3721 = "Si quieres que tus vidas duren un algo más, intenta ganar el juego neutral de vez en cuando."
