@@ -108,14 +108,6 @@ Tutoriales
  - REHACER FSTRONG DTILT
 
 - Maypul
- - Estandarizar liana/cuerda
- - *le* gancho de USPECIAL baguette
- - USPECIAL ... como un GOLPE DE GANCHO que....
- - button prompt: marca a un oponente > marca al oponente
- - El DSPECIAL de Maypul invoca a Lily, su planta ayudante.\nLily atacará----
- - Lily desaparecerña tras estar un rato en pantalla
- - A veces puede ser un poco dificil recuperarse con Maypul si ningún enemigo tiene una marca puesta.
- - Donde UAIR: quitar el segundo "vertical"
 
 - Absa
  - campo de batalla para controlar los movimientos
